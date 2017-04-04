@@ -1,0 +1,261 @@
+[
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_ArizonaStateUniversity-AZ-min.png",
+        "name": "Arizona State University",
+        "state": "Arizona",
+        "latitude": 34.6354526,
+        "longitude": -114.1097055
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_BelchertownPolice-MA-min.png",
+        "name": "Belchertown Police",
+        "state": "Massachusetts",
+        "latitude": 42.2722621,
+        "longitude": -72.4721052
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_BentonCountySheriff-WA-min.png",
+        "name": "Benton County Sheriff",
+        "state": "Washington",
+        "latitude": 46.0811893,
+        "longitude": -119.7748773
+    },
+     {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_CastleRockPD-CO-min.png",
+        "name": "Castle Rock PD",
+        "state": "Colorado",
+        "latitude": 39.3707392,
+        "longitude": -104.8604551
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_CityOfFramingham-MA-min.png",
+        "name": "City of Framingham",
+        "state": "Massachusetts",
+        "latitude": 42.279167,
+        "longitude": -71.416667
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_ClarkstownPolice-NY-min.png",
+        "name": "Clarkstown Police",
+        "state": "New York",
+        "latitude": 41.145623,
+        "longitude": -73.9903156
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_DouglasCountyLibraries-CO-min.png",
+        "name": "Douglas County Libraries",
+        "state": "Colorado",
+        "latitude": 39.4761301,
+        "longitude": -105.0088927
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_EvansPolice-CO-min.png",
+        "name": "Evans Police",
+        "state": "Colorado",
+        "latitude": 40.376607,
+        "longitude": -104.6997785
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_EVGCIFC-AZ-min.png",
+        "name": "East Valley Gang Criminal Information Fusion Center",
+        "state": "Arizona",
+        "latitude": 33.4031937,
+        "longitude": -111.9680465
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_FountainPolice-CO-min.png",
+        "name": "Fountain Police",
+        "state": "Colorado",
+        "latitude": 38.6850084,
+        "longitude": -104.7064605
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_FraminghamFire-MA-min.png",
+        "name": "Framingham Fire",
+        "state": "Massachusetts",
+        "latitude": 42.2711431,
+        "longitude": -71.4110899
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_FraminghamPolice-MA-min.png",
+        "name": "Framingham Police",
+        "state": "Massachusetts",
+        "latitude": 42.2805633,
+        "longitude": -71.4196623
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_GrandJunctionPolice-CO-min.png",
+        "name": "Grand Junction Police",
+        "state": "Colorado",
+        "latitude": 39.0648563,
+        "longitude": -108.5656339
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_GreenwoodVillagePolice-CO-min.png",
+        "name": "Greenwood Village Police",
+        "state": "Colorado",
+        "latitude": 39.6062874,
+        "longitude": -104.9056712
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_HaltomCityPD-TX-min.png",
+        "name": "Haltom City PD",
+        "state": "Texas",
+        "latitude": 32.8090131,
+        "longitude": -97.2743601
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_HaysCountySheriff-TX-min.png",
+        "name": "Hays County Sheriff",
+        "state": "Texas",
+        "latitude": 30.0462703,
+        "longitude": -98.1450752
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_HighlandParkPolice-TX-min.png",
+        "name": "Highland Park Police",
+        "state": "Texas",
+        "latitude": 32.8284936,
+        "longitude": -96.7986837
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_HoustonTexasAnti-Gang-TX-min.png",
+        "name": "Houston Texas Anti-Gang",
+        "state": "Texas",
+        "latitude": 29.8174782,
+        "longitude": -95.6814857
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_KennewickPD-WA-min.png",
+        "name": "Kennewick PD",
+        "state": "Washington",
+        "latitude": 46.2021596,
+        "longitude": -119.1230443
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_LexingtonPoliceDepartment-NC-min.png",
+        "name": "Lexington Police Department",
+        "state": "North Carolina",
+        "latitude": 35.8251909,
+        "longitude": -80.2547002
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_MaricopaCountyAttorney-AZ-min.png",
+        "name": "Maricopa County Attorney",
+        "state": "Arizona",
+        "latitude": 33.4466081,
+        "longitude": -112.0805553
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_MonumentPoliceDepartment-CO-min.png",
+        "name": "Monument Police Department",
+        "state": "Colorado",
+        "latitude": 39.0977445,
+        "longitude": -104.870855
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_NorthTexasAnti-GangCenter-TX-min.png",
+        "name": "North Texas Anti-Gang Center",
+        "state": "Texas",
+        "latitude": 32.775833,
+        "longitude": -96.796667
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_PhiladelphiaPD-PA-min.png",
+        "name": "Philadelphia PD",
+        "state": "Pennsylvania",
+        "latitude": 40.0049314,
+        "longitude": -75.2581182
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_PortStLucie-Fl-min.png",
+        "name": "Port St Lucie",
+        "state": "Florida",
+        "latitude": 27.2901177,
+        "longitude": -80.4329751
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_Richland-WA-min.png",
+        "name": "Richland",
+        "state": "Washington",
+        "latitude": 46.2853081,
+        "longitude": -119.4459268
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_RocktonPoliceDepartment-IL-min.png",
+        "name": "Rockton Police Department",
+        "state": "Illinois",
+        "latitude": 42.5738228,
+        "longitude": -89.8127783
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_RockvillePolice-MD-min.png",
+        "name": "Rockville Police",
+        "state": "Maryland",
+        "latitude": 39.0839593,
+        "longitude": -77.1553885
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_SaltLakeCityPolice-UT-min.png",
+        "name": "Salt Lake City Police",
+        "state": "Utah",
+        "latitude": 40.7285016,
+        "longitude": -112.0957008
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_SandySprings-GA-min.png",
+        "name": "Sandy Springs",
+        "state": "Georgia",
+        "latitude": 33.9434806,
+        "longitude": -84.4228565
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_ScottsdalePD-AZ-min.png",
+        "name": "Scottsdale PD",
+        "state": "Arizona",
+        "latitude": 33.4724035,
+        "longitude": -111.9272516
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_SpokanePolice-WA-min.png",
+        "name": "Spokane Police",
+        "state": "Washington",
+        "latitude": 47.6655951,
+        "longitude": -117.4311595
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_St.LucieSheriff-FL-min.png",
+        "name": "St. Lucie Sheriff",
+        "state": "Florida",
+        "latitude": 27.3753554,
+        "longitude": -80.3751554
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_SterlingPD-CO-min.png",
+        "name": "Sterling PD",
+        "state": "Colorado",
+        "latitude": 40.6289076,
+        "longitude": -103.2094069
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_TempePolice-AZ-min.png",
+        "name": "Tempe Police",
+        "state": "Arizona",
+        "latitude": 33.3835831,
+        "longitude": -111.9645666
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_VanAlstyneCityHall-TX-min.png",
+        "name": "Van Alstyne City Hall",
+        "state": "Texas",
+        "latitude": 33.4227063,
+        "longitude": -96.5784688
+    },
+    {
+        "img": "https://adventoscorp.github.io/customers/badges/badges_VanAlstynePolice-TX-min.png",
+        "name": "Van Alstyne Police",
+        "state": "Texas",
+        "latitude": 33.4231165,
+        "longitude": -96.5794467
+    }
+]
