@@ -161,13 +161,6 @@
         "longitude": -96.796667
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PhiladelphiaPD-PA-min.png",
-        "name": "Philadelphia PD",
-        "state": "Pennsylvania",
-        "latitude": 40.0049314,
-        "longitude": -75.2581182
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PortStLucie-Fl-min.png",
         "name": "Port St Lucie",
         "state": "Florida",
