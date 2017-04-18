@@ -20,12 +20,26 @@
         "latitude": 46.0811893,
         "longitude": -119.7748773
     },
-     {
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BocaRatonPD-FL-min.png",
+        "name": "Boca Raton PD",
+        "state": "Florida",
+        "latitude": 26.351783,
+        "longitude": -80.088969
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CastleRockPD-CO-min.png",
         "name": "Castle Rock PD",
         "state": "Colorado",
         "latitude": 39.3707392,
         "longitude": -104.8604551
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CitrusCountySheriff'sOffice-FL-min.png",
+        "name": "Citrus County Sheriff's Office",
+        "state": "Florida",
+        "latitude": 28.8522398,
+        "longitude": -82.526491
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CityOfFramingham-MA-min.png",
@@ -138,6 +152,13 @@
         "state": "North Carolina",
         "latitude": 35.8251909,
         "longitude": -80.2547002
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_LittletonPublicSchools-CO-min.png",
+        "name": "Littleton Public Schools",
+        "state": "Colorado",
+        "latitude": 39.5988987,
+        "longitude": -105.0534559
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MaricopaCountyAttorney-AZ-min.png",
