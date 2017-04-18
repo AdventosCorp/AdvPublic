@@ -56,6 +56,13 @@
         "longitude": -73.9903156
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DelawareStatePolice-DE-min.png",
+        "name": "Delaware State Police",
+        "state": "Delaware",
+        "latitude": 39.1133823,
+        "longitude": -77.7547644
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DouglasCountyLibraries-CO-min.png",
         "name": "Douglas County Libraries",
         "state": "Colorado",
