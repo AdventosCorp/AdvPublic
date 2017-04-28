@@ -39,7 +39,7 @@
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/mariaLauraFerradas-min.jpg",
-                "name": "Maria Laura Ferradas",
+                "name": "María Laura Ferradás",
                 "label": "Quality Assurance"
             }
         ]
@@ -49,12 +49,12 @@
         "person": [
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/joseHerrera-min.jpg",
-                "name": "Jose Herrera",
+                "name": "José Herrera",
                 "label": "VP of Product Development and Customer Success"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/julianTobio-min.jpg",
-                "name": "Julian Tobio",
+                "name": "Julián Tobio",
                 "label": "Sr. Developer"
             },
             {
