@@ -168,6 +168,13 @@
         "longitude": -105.0534559
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_LittletonPublicSchools-CO-min.png",
+        "name": "Lone Tree Police Department",
+        "state": "Colorado",
+        "latitude": 39.5520921,
+        "longitude": -104.8833165
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MaricopaCountyAttorney-AZ-min.png",
         "name": "Maricopa County Attorney",
         "state": "Arizona",
