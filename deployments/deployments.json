@@ -1,6 +1,4 @@
-[
-    { 
-        "title": "Deployments",
-        "text":"At <span class='fw600'>Adventos™</span>, we want you to have a successful implementation of our software solution so you can connect internally and with your community in a more optimum way. To that end, we have designed a multi-faceted discovery, deployment, training, and support process we call our Customer Deployment and Change Management Success Guide. By working with us every step of the way through our proven steps and principles, together we can ensure success with your project."
-    }
-]
+{ 
+    "title": "Deployments",
+    "text":"At <span class='fw600'>Adventos™</span>, we want you to have a successful implementation of our software solution so you can connect internally and with your community in a more optimum way. To that end, we have designed a multi-faceted discovery, deployment, training, and support process we call our Customer Deployment and Change Management Success Guide. By working with us every step of the way through our proven steps and principles, together we can ensure success with your project."
+}
