@@ -1,0 +1,163 @@
+{
+	"title": "Get Started with SmartForce™ Today.",
+	"subtitle": "Sign up and get the #1 Law Enforcement Agency Management System.",
+	"features":[
+		{
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_intelligence-min.png",
+			"title":"SmartIntel",
+			"mostpopular": true,
+			"prices":[
+				{
+					"users":"500+",
+					"callforqoute":true
+				},
+				{
+					"users":"401 - 500",
+					"priceperyear":"$40.000"
+				},
+				{
+					"users":"301 - 400",
+					"priceperyear":"$32,500"
+				},
+				{
+					"users":"201 - 300",
+					"priceperyear":"$25,000"
+				},
+				{
+					"users":"101 - 200",
+					"priceperyear":"$17,500"
+				},
+				{
+					"users":"51 - 100",
+					"priceperyear":"$10,000"
+				},
+				{
+					"users":"Up to 50",
+					"priceperyear":"$5,000"
+				}
+			],
+			"items":[
+				"Roll-Call/Shift Briefing Bulletin Boards", "CJIS Compliant Bulletin Dissemination", "Real-Time Criminal Intelligence", "Officer Safety Intelligence", "Discussion Threads", "Photo, Video, Bulletin, & Warrant Libraries", "Assigned Problems Manager", "Alerts and Announcements", "Community Bulletin Board", "Reporting Discussions"
+			],
+			"learnmore": "Learn More Now, with a free Demonstration",
+			"button": "Schedule Free Demo"
+		},
+		{
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_highLiability-min.png",
+			"title":"SmartIA",
+			"prices":[
+				{
+					"users":"500+",
+					"callforqoute":true
+				},
+				{
+					"users":"401 - 500",
+					"priceperyear":"$40.000"
+				},
+				{
+					"users":"301 - 400",
+					"priceperyear":"$32,500"
+				},
+				{
+					"users":"201 - 300",
+					"priceperyear":"$25,000"
+				},
+				{
+					"users":"101 - 200",
+					"priceperyear":"$17,500"
+				},
+				{
+					"users":"51 - 100",
+					"priceperyear":"$10,000"
+				},
+				{
+					"users":"Up to 50",
+					"priceperyear":"$5,000"
+				}
+			],
+			"items":[
+				"Response to Resistance Reporting", "Complaints and Commendations", "Training Officer Management", "Public Information Officer", "Video Library Management", "Pursuits", "Early Intervention System"
+			],
+			"learnmore": "Learn More Now, with a free Demonstration",
+			"button": "Schedule Free Demo"
+		},
+		{
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_community-min.png",
+			"title":"SmartCommunity",
+			"prices":[
+				{
+					"users":"500+",
+					"callforqoute":true
+				},
+				{
+					"users":"401 - 500",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"301 - 400",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"201 - 300",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"101 - 200",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"51 - 100",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"Up to 50",
+					"priceperyear":"$3,000"
+				}
+			],
+			"items":[
+				"Community Partner Access Sites", "Community Leaders Discussion Forum", "Community Request Management", "Activity/Initiative Management"
+			],
+			"learnmore": "Learn More Now, with a free Demonstration",
+			"button": "Schedule Free Demo"
+		},
+		{
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_administration-min.png",
+			"title":"SmartAdmin",
+			"prices":[
+				{
+					"users":"500+",
+					"callforqoute":true
+				},
+				{
+					"users":"401 - 500",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"301 - 400",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"201 - 300",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"101 - 200",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"51 - 100",
+					"priceperyear":"$5,000"
+				},
+				{
+					"users":"Up to 50",
+					"priceperyear":"$3,000"
+				}
+			],
+			"items":[
+				"Legal, Policy, & Training Acknowledgement", "Document Management", "Calendar Management", "Forms Library", "Policy Library", "Inventory Management", "Extra-Duty", "Public Safety & Community Directory", "Absence and Vacation Tracking", "Talent Development", "Daily Field Activity Report", "Watch"
+			],
+			"learnmore": "Learn More Now, with a free Demonstration",
+			"button": "Schedule Free Demo"
+		}
+	]
+}
