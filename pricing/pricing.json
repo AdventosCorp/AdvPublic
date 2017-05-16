@@ -40,7 +40,10 @@
 				"Roll-Call/Shift Briefing Bulletin Boards", "CJIS Compliant Bulletin Dissemination", "Real-Time Criminal Intelligence", "Officer Safety Intelligence", "Discussion Threads", "Photo, Video, Bulletin, & Warrant Libraries", "Assigned Problems Manager", "Alerts and Announcements", "Community Bulletin Board", "Reporting Discussions"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
-			"button": "Schedule Free Demo"
+			"button": {
+				"label":"Schedule Free Demo",
+				"link":"https://adventos.com/form.html"
+			}
 		},
 		{
 			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_highLiability-min.png",
@@ -79,7 +82,10 @@
 				"Response to Resistance Reporting", "Complaints and Commendations", "Training Officer Management", "Public Information Officer", "Video Library Management", "Pursuits", "Early Intervention System"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
-			"button": "Schedule Free Demo"
+			"button": {
+				"label":"Schedule Free Demo",
+				"link":"https://adventos.com/form.html"
+			}
 		},
 		{
 			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_community-min.png",
@@ -118,7 +124,10 @@
 				"Community Partner Access Sites", "Community Leaders Discussion Forum", "Community Request Management", "Activity/Initiative Management"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
-			"button": "Schedule Free Demo"
+			"button": {
+				"label":"Schedule Free Demo",
+				"link":"https://adventos.com/form.html"
+			}
 		},
 		{
 			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/3e2ddcc9/pricing/images/balloon_administration-min.png",
@@ -157,7 +166,10 @@
 				"Legal, Policy, & Training Acknowledgement", "Document Management", "Calendar Management", "Forms Library", "Policy Library", "Inventory Management", "Extra-Duty", "Public Safety & Community Directory", "Absence and Vacation Tracking", "Talent Development", "Daily Field Activity Report", "Watch"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
-			"button": "Schedule Free Demo"
+			"button": {
+				"label":"Schedule Free Demo",
+				"link":"https://adventos.com/form.html"
+			}
 		}
 	]
 }
