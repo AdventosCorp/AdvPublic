@@ -9,7 +9,7 @@
 			"prices":[
 				{
 					"users":"500+",
-					"callforqoute":true
+					"callforquote":true
 				},
 				{
 					"users":"401 - 500",
@@ -48,7 +48,7 @@
 			"prices":[
 				{
 					"users":"500+",
-					"callforqoute":true
+					"callforquote":true
 				},
 				{
 					"users":"401 - 500",
@@ -87,7 +87,7 @@
 			"prices":[
 				{
 					"users":"500+",
-					"callforqoute":true
+					"callforquote":true
 				},
 				{
 					"users":"401 - 500",
@@ -126,7 +126,7 @@
 			"prices":[
 				{
 					"users":"500+",
-					"callforqoute":true
+					"callforquote":true
 				},
 				{
 					"users":"401 - 500",
