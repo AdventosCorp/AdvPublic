@@ -171,5 +171,12 @@
 				"link":"https://adventos.com/form.html"
 			}
 		}
-	]
+	],
+	"contacttitle": "Have Questions?",
+	"contactnumber": "Call 303-800-5044",
+	"contactsubtitle": "Experience a Free Demonstration of the leading Law Enforcement Agency Management System:",
+	"contactbutton": {
+		"label":"Schedule Free Demo",
+		"link":"https://adventos.com/form.html"
+	}
 }
