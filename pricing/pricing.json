@@ -178,5 +178,9 @@
 	"contactbutton": {
 		"label":"Schedule Free Demo",
 		"link":"https://adventos.com/form.html"
+	},
+	"customertbutton": {
+		"label":"Check our customers",
+		"link":"https://adventos.com/#!/customers"
 	}
 }
