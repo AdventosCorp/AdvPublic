@@ -261,6 +261,22 @@
         "longitude": -96.796667
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OakRidgePD-TN-min.png",
+        "name": "Oak Ridge PD",
+        "state": "Tennessee",
+        "latitude": 36.0121447,
+        "longitude": -84.2579034
+    },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PerkinsCntySheriff-NE-min.png",
+        "name": "Perkins County Sheriff",
+        "state": "Nebraska",
+        "latitude": 40.840957,
+        "longitude": -101.726466
+    },
+
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PortStLucie-Fl-min.png",
         "name": "Port St Lucie",
         "state": "Florida",
