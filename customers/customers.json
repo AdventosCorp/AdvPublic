@@ -196,6 +196,13 @@
         "longitude": -112.0805553
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MesaCountySheriffsOffice-CO-min.png",
+        "name": "Mesa County Sheriff's Office",
+        "state": "Colorado",
+        "latitude": 39.0685363,
+        "longitude": -108.5740023
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MonumentPoliceDepartment-CO-min.png",
         "name": "Monument Police Department",
         "state": "Colorado",
