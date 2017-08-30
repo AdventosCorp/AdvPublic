@@ -304,6 +304,15 @@
         "latitude": 39.0839593,
         "longitude": -77.1553885
     },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RutherfordSheriff-TN-min.png",
+        "name": "Rutherford Sheriff",
+        "state": "Tennessee",
+        "latitude": 35.835868,
+        "longitude": -86.4124063
+    },
+
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SaltLakeCityPolice-UT-min.png",
         "name": "Salt Lake City Police",
