@@ -304,7 +304,6 @@
         "latitude": 39.0839593,
         "longitude": -77.1553885
     },
-
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RutherfordSheriff-TN-min.png",
         "name": "Rutherford Sheriff",
@@ -312,7 +311,13 @@
         "latitude": 35.835868,
         "longitude": -86.4124063
     },
-
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SacramentoCntySheriff-CA-min.png",
+        "name": "Sacramento County Sheriff",
+        "state": "California",
+        "latitude": 38.5848276,
+        "longitude": -121.4977153
+    },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SaltLakeCityPolice-UT-min.png",
         "name": "Salt Lake City Police",
