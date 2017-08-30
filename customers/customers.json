@@ -56,6 +56,13 @@
         "longitude": -73.9903156
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ColoradoDeptOfPublicSafety-CO-min.png",
+        "name": "Colorado Department of Public Safety",
+        "state": "Colorado",
+        "latitude": 39.7268257,
+        "longitude": -105.1095952
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DelawareStatePolice-DE-min.png",
         "name": "Delaware State Police",
         "state": "Delaware",
@@ -70,18 +77,25 @@
         "longitude": -105.0088927
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EvansPolice-CO-min.png",
-        "name": "Evans Police",
-        "state": "Colorado",
-        "latitude": 40.376607,
-        "longitude": -104.6997785
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EVGCIFC-AZ-min.png",
         "name": "East Valley Gang Criminal Information Fusion Center",
         "state": "Arizona",
         "latitude": 33.4031937,
         "longitude": -111.9680465
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ElPasoPoliceDept-TX-min.png",
+        "name": "El Paso Police Department",
+        "state": "Texas",
+        "latitude": 35.2680395,
+        "longitude": -113.8610584
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EvansPolice-CO-min.png",
+        "name": "Evans Police",
+        "state": "Colorado",
+        "latitude": 40.376607,
+        "longitude": -104.6997785
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FountainPolice-CO-min.png",
