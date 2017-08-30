@@ -121,6 +121,27 @@
         "longitude": -104.6997785
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ForsythCountySheriff-NC-min.png",
+        "name": "Forsyth County Sheriff",
+        "state": "North Carolina",
+        "latitude": 36.0982098,
+        "longitude": -80.2456724
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FortCollinsPoliceDepartment-CO-min.png",
+        "name": "Fort Collins PD",
+        "state": "Colorado",
+        "latitude": 40.4612943,
+        "longitude": -107.114776
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FortPiercePD-min.png",
+        "name": "Fort Pierce PD",
+        "state": "Florida",
+        "latitude": 27.4373752,
+        "longitude": -80.3247318
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FountainPolice-CO-min.png",
         "name": "Fountain Police",
         "state": "Colorado",
