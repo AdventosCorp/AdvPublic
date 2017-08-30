@@ -346,6 +346,15 @@
         "latitude": 47.6655951,
         "longitude": -117.4311595
     },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SpringdalePD-AR-min.png",
+        "name": "Springdale PD",
+        "state": "Arkansas",
+        "latitude": 36.187061,
+        "longitude": -94.129127
+    },
+
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_St.LucieSheriff-FL-min.png",
         "name": "St. Lucie Sheriff",
@@ -367,6 +376,15 @@
         "latitude": 33.3835831,
         "longitude": -111.9645666
     },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_TustinPD-CA-min.png",
+        "name": "Tustin PD",
+        "state": "California",
+        "latitude": 33.7432213,
+        "longitude": -117.8195563
+    },
+
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VanAlstyneCityHall-TX-min.png",
         "name": "Van Alstyne City Hall",
