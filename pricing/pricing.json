@@ -1,6 +1,7 @@
 {
 	"title": "Get Started with SmartForce<span class='tm'></span> Today.",
 	"subtitle": "Sign up and get the #1 Law Enforcement Agency Management System.",
+	"content": "SmartForce<span class='tm'></span> is specifically designed to work with Microsoft Office365, but can also work in other environments or be hosted by Adventos in our CJIS Compliant Government Cloud. Call to learn which environment is best for your agency’s needs and quotes.<br>Basic On-Boarding training is included with your subscription. However, extra support, training, or custom professional services can be provided through Adventos Assurance packages starting at $4,995.00",
 	"features":[
 		{
 			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_intelligence-min.png",
@@ -37,7 +38,7 @@
 				}
 			],
 			"items":[
-				"Roll-Call/Shift Briefing Bulletin Boards", "CJIS Compliant Bulletin Dissemination", "Real-Time Criminal Intelligence", "Officer Safety Intelligence", "Discussion Threads", "Photo, Video, Bulletin, & Warrant Libraries", "Assigned Problems Manager", "Alerts and Announcements", "Community Bulletin Board", "Reporting Discussions"
+				"Shift Briefing", "Bulletin Boards", "CJIS Compliant Bulletin Dissemination", "Real-Time Criminal Intelligence", "Officer Safety Intelligence", "Discussion Threads Reporting Discussions", "Photo, Video, Bulletin, & Warrant Libraries", "Assigned Problems Manager", "Alerts and Announcements", "Community Request Management", "Dispatch", "Watch"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
@@ -79,7 +80,7 @@
 				}
 			],
 			"items":[
-				"Response to Resistance Reporting", "Complaints and Commendations", "Training Officer Management", "Public Information Officer", "Video Library Management", "Pursuits", "Early Intervention System"
+				"Response to Resistance Reporting", "Complaints and Commendations", "Training Officer Management", "Public Information Officer", "Pursuits"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
@@ -121,7 +122,7 @@
 				}
 			],
 			"items":[
-				"Community Partner Access Sites", "Community Leaders Discussion Forum", "Community Request Management", "Activity/Initiative Management"
+				"Community Partner Access Sites", "Community Leaders Discussion Forum", "Activity/Initiative Management", "Community Bulletin Board", "Public Safety & Community Directory"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
@@ -163,7 +164,7 @@
 				}
 			],
 			"items":[
-				"Legal, Policy, & Training Acknowledgement", "Document Management", "Calendar Management", "Forms Library", "Policy Library", "Inventory Management", "Extra-Duty", "Public Safety & Community Directory", "Absence and Vacation Tracking", "Talent Development", "Daily Field Activity Report", "Watch"
+				"Legal, Policy, & Training Acknowledgement", "Document Management", "Calendar Management", "Forms Library", "Policy Library", "Inventory Management", "Daily Field Activity Report"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
