@@ -20,16 +20,11 @@
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/brianMcGrew-min.jpg",
                 "name": "Brian McGrew",
-                "label": "VP of Sales, Marketing & Education"
+                "label": "VP of Education"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/dougOwens-min.jpg",
-                "name": "Doug Owens",
-                "label": "Director of Implementation"
-            },
-            {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/davidBibiloni-min.jpg",
-                "name": "David Bibiloni",
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/chrisArvayo-min.jpg",
+                "name": "Chris Arvayo",
                 "label": "Regional Implementation Manager"
             },
             {
@@ -50,7 +45,7 @@
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/joseHerrera-min.jpg",
                 "name": "José Herrera",
-                "label": "VP of Product Development & Customer Success"
+                "label": "VP of Technology"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/julianTobio-min.jpg",
@@ -80,7 +75,7 @@
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/florenciaAntacle-min.jpg",
                 "name": "Florencia Antacle",
-                "label": "UI/UX Consultant"
+                "label": "UI/UX Designer"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/facundoPedrazzini-min.jpg",
