@@ -2,39 +2,39 @@
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/41d0f8d1/customers/testimonials/JohnAJackson-min.jpg",
         "name":"John A. Jackson",
-        "place":"Chief of Greenwood Village, CO, Police Department.",
+        "place":"Chief of Greenwood Village, CO, Police Department",
         "quote":"Anyone in law enforcement knows one of the largest struggles is with organized and connected operational communications.  Our implementation of the SmartForce™ platform allows for the integration of a common communication and searchable database of technology onto one platform.  We are using SmartForce™ to connect our operations to the data that we generate at levels we had only previously imagined.  As we move to the integration of even more organizational options of SmartForce™, we are finding that having only one tool creates a virtual force multiplier effect with our enhanced resource deployment strategies."
     },
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/5f69710c/customers/testimonials/jackCauley-min.jpg",
         "name":"Jack Cauley",
-        "place":"Chief of Castle Rock, CO, Police Department.",
+        "place":"Chief of Castle Rock, CO, Police Department",
         "quote":"SmartForce™ has improved our organizational communication and effectiveness by providing a “one stop shop” for all of our police related systems.  As a data-driven, intelligence-led organization, SmartForce™ has enhanced our ability to address public safety issues in our community while simultaneously adding a layer of accountability.  As a police chief, having access to critical departmental information  on a mobile platform is invaluable. The SmartForce™ team has been extremely responsive as we built and launched the product."
     },
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/20de73fa/customers/testimonials/chrisSkinner-min.jpg",
         "name":"Chris Skinner",
-        "place":"Chief of the Richland, WA, Police Department.",
+        "place":"Chief of the Richland, WA, Police Department",
         "quote":"SmartForce™ allows a supervisor to pull together an entire squad regardless of location, share information with them, and allow them to share information with each other in the field. This dramatically increases effectiveness"
     },
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/20de73fa/customers/testimonials/johnBolduc-min.jpg",
         "name":"John Bolduc",
-        "place":"Chief of the Port St. Lucie, FL, Police Department.",
+        "place":"Chief of the Port St. Lucie, FL, Police Department",
         "quote":"SmartForce™ has enhanced our communications throughout the department resulting in better delivery of intelligence as well as increasing the accountability factor critical to our crime reduction model. On top of this, we had an enjoyable software deployment experience that was well-above any other we have had to date."
     },
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/20de73fa/customers/testimonials/rachelSantos-min.jpg",
         "name":"Dr. Rachel Boba Santos",
         "title":"Professor.",
-        "place":"Department of Criminal Justice. Radford University.",
+        "place":"Department of Criminal Justice, Radford University",
         "quote":"SmartForce™ is an invaluable software tool to facilitate communication and accountability for crime reduction within Stratified Policing. It allows the sharing of evidence-based strategies implemented by all members of the agency from police officers to the chief and archives response data to be used to assess individual efforts as well as evaluate the agency’s crime reduction effectiveness."
     },
     { 
         "img": "https://cdn.rawgit.com/AdventosCorp/AdvPublic/20de73fa/customers/testimonials/robertoSantos-min.jpg",
         "name":"Dr. Roberto Santos",
         "title":"Professor.",
-        "place":"Department of Criminal Justice. Radford University.",
+        "place":"Department of Criminal Justice, Radford University",
         "quote":"Police leaders cannot underestimate the importance of organizational communication when it comes to crime reduction and addressing quality-of-life issues. With SmartForce™, police leaders are able to easily hold their rank-and-file accountable for the crime reduction work they do as well as encourage transparency and communication throughout the organization. The intuitive technology allows for streamlined communication among the ranks, units, and divisions guiding the organization to collaboratively address common crime reduction goals and quality-of-life concerns, to search prior strategies used, and report out activity at accountability meetings that all supports Stratified Policing."
     }
 ]
