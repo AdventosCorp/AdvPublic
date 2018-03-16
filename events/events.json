@@ -1,6 +1,6 @@
 [
     {
-        "name": "LEAP Command Academy 2016",
+        "name": "SmartForce™ Command Academy 2018",
         "invitation": {
             "title" : "<b>LEAP</b> Command Academy 2016",
             "placeImg" : "https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/placeImg.jpg",
@@ -9,8 +9,12 @@
         },
         "registration" : {
             "title": "Save the Date and get Discount Registration!",
-            "subtitle": "LEAP Command<br>Academy 2017",
-            "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017"
+            "subtitle": "SmartForce™ Command Academy 2018",
+            "address" : "Doubletree by Hilton Hotel Breckenridge, 550 Village Road, Breckenridge CO 80424",
+            "button": {
+                "title":"Registration Here",
+                "url":"https://adventos.com/"
+            }
         }
     },
     {
@@ -24,11 +28,7 @@
         "registration" : {
             "title": "Save the Date and get Discount Registration!",
             "subtitle": "LEAP Command<br>Academy 2017",
-            "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017",
-            "button": {
-                "title":"Registration Here",
-                "url":"https://adventos.com/"
-            }
+            "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017"
         }
     }
 ]
