@@ -6,6 +6,29 @@
             "placeImg" : "https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/placeImg.jpg",
             "body" : "<div class='p0-1'><p class='p0 m0 xm fw400'>October 4-6 2017</p><p class='p02-0 m0'><span class='fw400 xm'>2:00</span> <span class='fw300'>pm EST /</span> <span class='fw400 xm'>11:00</span> <span class='fw300'>am PST</span></p><p class='p02-0 m0 fw300'>Marriott Vail Mountain Resort &amp; Spa 715 West Lionshead Circle Vail, CO 81657</p><br class='clear'></div>",
             "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/footerImg.svg"
+        },
+        "registration" : {
+            "title": "Save the Date and get Discount Registration!",
+            "subtitle": "LEAP Command<br>Academy 2017",
+            "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017"
+        }
+    },
+    {
+        "name": "LEAP Command Academy 2016",
+        "invitation": {
+            "title" : "<b>LEAP</b> Command Academy 2016",
+            "placeImg" : "https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/placeImg.jpg",
+            "body" : "<div class='p0-1'><p class='p0 m0 xm fw400'>October 4-6 2017</p><p class='p02-0 m0'><span class='fw400 xm'>2:00</span> <span class='fw300'>pm EST /</span> <span class='fw400 xm'>11:00</span> <span class='fw300'>am PST</span></p><p class='p02-0 m0 fw300'>Marriott Vail Mountain Resort &amp; Spa 715 West Lionshead Circle Vail, CO 81657</p><br class='clear'></div>",
+            "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/footerImg.svg"
+        },
+        "registration" : {
+            "title": "Save the Date and get Discount Registration!",
+            "subtitle": "LEAP Command<br>Academy 2017",
+            "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017",
+            "button": {
+                "title":"Registration Here",
+                "url":"https://adventos.com/"
+            }
         }
     }
 ]
