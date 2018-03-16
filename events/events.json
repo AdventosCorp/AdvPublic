@@ -29,6 +29,23 @@
             "title": "Save the Date and get Discount Registration!",
             "subtitle": "LEAP Command<br>Academy 2017",
             "address" : "Marriott Vail<br>Mountain Resort & Spa<br>October 4-6 2017"
+        },
+        "guests":{
+            "title":"Pro-Active Policing Speakers, Slide Presentations, and Video Clips",
+            "speakers": [
+                {
+                    "name":"Dwight Henninger",
+                    "job":"Chief of Police Vail, CO",
+                    "img":"",
+                    "files": [
+                        {
+                            "title":"Emergency Management Prep:Alpine World Ski Champs",
+                            "url":"https://adventos.com/public_files/events/LEAP2016EmergencyMgmt.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                }
+            ]
         }
     }
 ]
