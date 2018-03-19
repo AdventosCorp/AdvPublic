@@ -15,6 +15,21 @@
                 "title":"Registration Here",
                 "url":"https://adventos.com/"
             }
+        },
+        "guests":{
+            "title":"2018 Guests Speakers",
+            "speakers": [
+                {
+                    "name":"Dr. Rachel Santos",
+                    "job":"Professor of Criminal Justice, Radford University, Radford, VA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/rachelSantos-min.jpg"
+                },
+                {
+                    "name":"Dr. Roberto Santos",
+                    "job":"Assistant Professor of Criminal Justice, Radford University, VA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/robertoSantos-min.jpg"
+                }
+            ]
         }
     },
     {
@@ -36,11 +51,72 @@
                 {
                     "name":"Dwight Henninger",
                     "job":"Chief of Police Vail, CO",
-                    "img":"",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/dwightHenninger.jpg",
                     "files": [
                         {
                             "title":"Emergency Management Prep:Alpine World Ski Champs",
                             "url":"https://adventos.com/public_files/events/LEAP2016EmergencyMgmt.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"John Camper",
+                    "job":"Chief of Police Grand Junction, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/johnCamper.jpg",
+                    "files": [
+                        {
+                            "title":"The Chronically Homeless:  Old Problem, New Challenges",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HomelessPresentation.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"John Bolduc",
+                    "job":"Chief of Police Port St. Lucie, FL",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/johnBolduc.png",
+                    "files": [
+                        {
+                            "title":"Evolution of Crime Reduction Strategies",
+                            "url":"https://adventos.com/public_files/events/LEAP2016BolducEvolutionofPolicingStrategies.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Implementing Stratified Policing Case Study",
+                            "url":"https://adventos.com/public_files/events/LEAP2016BolducImplementingStratifiedPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Micro-Time Hot-Spots Policing",
+                            "url":"https://adventos.com/public_files/events/LEAP2016MicroTimeHotSpotsPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Long-Term Problem Policing",
+                            "url":"https://adventos.com/public_files/events/LEAP2016LongTermProblemsPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"Dr. Lee Hunt",
+                    "job":"Manager of IT Systems Greensboro, NC",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/drLeeHunt.jpg",
+                    "files": [
+                        {
+                            "title":"Implementing Stratified Policing Case Study",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntImplementingStratifiedPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Crime Analysis as part of a Crime Reduction Strategy",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntCrimeAnalysisCrimeReduction.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Assisting in Short-Term & Long-Term Crime Reduction Efforts",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntCrimeAnalysisShortTermLongTerm.pdf",
                             "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
                         }
                     ]
