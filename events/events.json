@@ -21,7 +21,7 @@
             "speakers": [
                 {
                     "name":"Dr. Jerry Ratcliffe",
-                    "job":"Director, Center for Security & Crime Science, Temple University, Philadelphia, PA",
+                    "job":"Director, Center for Security & Crime Science,<br>Temple University, Philadelphia, PA",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/jerryRatcliffe.png"
                 },
                 {
@@ -33,6 +33,31 @@
                     "name":"Dr. Roberto Santos",
                     "job":"Assistant Professor of Criminal Justice, Radford University, VA",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/robertoSantos-min.jpg"
+                },
+                {
+                    "name":"Eddie Johnson",
+                    "job":"Deputy Chief, Maricopa County Attorneys Office, Phoenix, AZ",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/"
+                },
+                {
+                    "name":"Todd Reichert",
+                    "job":"Administrator, North Texas Anti-Gang Center, Irving, TX",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/"
+                },
+                {
+                    "name":"John Bolduc",
+                    "job":"Chief of Police, Port St. Lucie, FL",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/johnBolduc.png"
+                },
+                {
+                    "name":"Domenick Kaufman",
+                    "job":"Former Sergeant, East Valley Gang & Criminal<br>Information Fusion Center, AZ",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/domKaufman-min.jpg"
+                },
+                {
+                    "name":"Guy Grace",
+                    "job":"Director of Security and Emergency Planning,<br>Littleton Public Schools, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/"
                 }
             ]
         }
