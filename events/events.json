@@ -20,6 +20,11 @@
             "title":"2018 Guests Speakers",
             "speakers": [
                 {
+                    "name":"Dr. Jerry Ratcliffe",
+                    "job":"Director, Center for Security & Crime Science, Temple University, Philadelphia, PA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/jerryRatcliffe.png"
+                },
+                {
                     "name":"Dr. Rachel Santos",
                     "job":"Professor of Criminal Justice, Radford University, Radford, VA",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/rachelSantos-min.jpg"
