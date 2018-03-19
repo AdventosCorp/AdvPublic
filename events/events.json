@@ -21,7 +21,7 @@
             "speakers": [
                 {
                     "name":"Dr. Jerry Ratcliffe",
-                    "job":"Director, Center for Security & Crime Science,<br>Temple University, Philadelphia, PA",
+                    "job":"Director, Center for Security & Crime Science, Temple University, Philadelphia, PA",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/jerryRatcliffe.png"
                 },
                 {
@@ -51,16 +51,17 @@
                 },
                 {
                     "name":"Domenick Kaufman",
-                    "job":"Former Sergeant, East Valley Gang & Criminal<br>Information Fusion Center, AZ",
+                    "job":"Former Sergeant, East Valley Gang & Criminal Information Fusion Center, AZ",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/domKaufman-min.jpg"
                 },
                 {
                     "name":"Guy Grace",
-                    "job":"Director of Security and Emergency Planning,<br>Littleton Public Schools, CO",
+                    "job":"Director of Security and Emergency Planning, Littleton Public Schools, CO",
                     "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/"
                 }
             ]
-        }
+        },
+        "moreInformation" : "Other Speakers on Organized Retail Crime and Emergency Preparation"
     },
     {
         "name": "LEAP Command Academy 2016",
