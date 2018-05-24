@@ -472,14 +472,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SandySprings-GA-min.png",
-        "name": "Sandy Springs",
-        "state": "Georgia",
-        "latitude": 33.9434806,
-        "longitude": -84.4228565,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ScottsdalePD-AZ-min.png",
         "name": "Scottsdale PD",
         "state": "Arizona",
