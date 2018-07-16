@@ -33,11 +33,6 @@
                 "label": "Regional Implementation Manager"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/michealPatrick-min.jpg",
-                "name": "Micheal Patrick",
-                "label": "Systems Admin"
-            },
-            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/mariaLauraFerradas-min.jpg",
                 "name": "María Laura Ferradás",
                 "label": "Quality Assurance"
@@ -63,9 +58,14 @@
                 "label": "Sr. Developer"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/juanSaissac-min.jpg",
-                "name": "Juan Saissac",
-                "label": "Developer"
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/pedroCastano-min.jpg",
+                "name": "Pedro Castano",
+                "label": "Sr. Developer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/luisCuccarollo-min.jpg",
+                "name": "Luis Cuccarollo",
+                "label": "Sr. Systems Admin"
             }
         ]
     },
