@@ -1,10 +1,10 @@
 {
-	"title": "Get Started with SmartForce<span class='tm'></span> Today.",
+	"title": "Get Started Today",
 	"subtitle": "Sign up and get the #1 Law Enforcement Agency Management System.",
 	"content": "SmartForce<span class='tm'></span> is specifically designed to work with Microsoft Office365, but can also work in other environments or be hosted by Adventos in our CJIS Compliant Government Cloud. Call to learn which environment is best for your agency’s needs and quotes.<br>Basic On-Boarding training is included with your subscription. However, extra support, training, or custom professional services can be provided through Adventos Assurance packages starting at $4,995.00",
 	"features":[
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_intelligence-min.png",
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartIntel.png",
 			"title":"SmartIntel",
 			"mostpopular": true,
 			"prices":[
@@ -41,12 +41,12 @@
 				"Alerts & Announcements Dashboard","Shift Briefing Dashboard","Ops Discussion Dashboard","Ops Activity Reporting","Real-Time Criminal Discussion Threads","Officer Safety Bulletin, BOLO, Photo, and Video Libraries","CJIS Compliant Bulletin Dissemination","Significant Incident Reporting","Secure Investigations Workspaces","Task Force Management","Sex Offender Management","Trespass Management","Stolen Vehicle Hotsheets","Wants and Warrants Dashboard","Search Warrant Management","Task Assignment Management","Public Information Management","House & Business Watch Requests","Community Request Management","Calendaring"			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
-				"label":"Schedule Free Demo",
-				"link":"https://adventos.com/form.html"
+				"label":"Schedule Your Free Demo",
+				"link":"https://smartforce.app/#/demo"
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_highLiability-min.png",
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartIA.png",
 			"title":"SmartIA",
 			"prices":[
 				{
@@ -83,12 +83,12 @@
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
-				"label":"Schedule Free Demo",
-				"link":"https://adventos.com/form.html"
+				"label":"Schedule Your Free Demo",
+				"link":"https://smartforce.app/#/demo"
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_administration-min.png",
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartAdmin.pngg",
 			"title":"SmartAdmin",
 			"prices":[
 				{
@@ -125,12 +125,12 @@
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
-				"label":"Schedule Free Demo",
-				"link":"https://adventos.com/form.html"
+				"label":"Schedule Your Free Demo",
+				"link":"https://smartforce.app/#/demo"
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_community-min.png",
+			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartCommunity.png",
 			"title":"SmartCommunity",
 			"prices":[
 				{
@@ -167,8 +167,8 @@
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
-				"label":"Schedule Free Demo",
-				"link":"https://adventos.com/form.html"
+				"label":"Schedule Your Free Demo",
+				"link":"https://smartforce.app/#/demo"
 			}
 		}
 	],
@@ -176,11 +176,11 @@
 	"contactnumber": "Call 303-800-5044",
 	"contactsubtitle": "Experience a Free Demonstration of the leading Law Enforcement Agency Management System:",
 	"contactbutton": {
-		"label":"Schedule Free Demo",
-		"link":"https://adventos.com/form.html"
+		"label":"Schedule Your Free Demo",
+		"link":"https://smartforce.app/#/demo"
 	},
 	"customertbutton": {
 		"label":"Check our customers",
-		"link":"https://adventos.com/#!/customers"
+		"link":"https://adventos.com/#/customers"
 	}
 }
