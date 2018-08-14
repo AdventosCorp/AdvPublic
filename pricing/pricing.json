@@ -4,7 +4,7 @@
 	"content": "SmartForce<span class='tm'></span> is specifically designed to work with Microsoft Office365, but can also work in other environments or be hosted by Adventos in our CJIS Compliant Government Cloud. Call to learn which environment is best for your agency’s needs and quotes.<br>Basic On-Boarding training is included with your subscription. However, extra support, training, or custom professional services can be provided through Adventos Assurance packages starting at $4,995.00",
 	"features":[
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartIntel.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
 			"title":"SmartIntel",
 			"mostpopular": true,
 			"prices":[
@@ -46,7 +46,7 @@
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartIA.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIA.png",
 			"title":"SmartIA",
 			"prices":[
 				{
@@ -88,7 +88,7 @@
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartAdmin.pngg",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartAdmin.png",
 			"title":"SmartAdmin",
 			"prices":[
 				{
@@ -130,7 +130,7 @@
 			}
 		},
 		{
-			"img":"https://cdn.rawgit.com/AdventosCorp/AdvPublic/13f4d959/pricing/images/balloon_smartCommunity.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartCommunity.png",
 			"title":"SmartCommunity",
 			"prices":[
 				{
