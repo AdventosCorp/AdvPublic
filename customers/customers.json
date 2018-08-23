@@ -512,19 +512,19 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_St.LucieSheriff-FL-min.png",
-        "name": "St. Lucie County Sheriff",
-        "state": "Florida",
-        "latitude": 27.3753554,
-        "longitude": -80.3751554,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SpringdalePD-AR-min.png",
         "name": "Springdale PD",
         "state": "Arkansas",
         "latitude": 36.187061,
         "longitude": -94.129127,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_St.LucieSheriff-FL-min.png",
+        "name": "St. Lucie County Sheriff",
+        "state": "Florida",
+        "latitude": 27.3753554,
+        "longitude": -80.3751554,
         "officer": true
     },
     {
@@ -535,6 +535,16 @@
         "longitude": -103.2094069,
         "officer": true
     },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SunPrairiePD-WI-min.png",
+        "name": "Sun Prairie PD",
+        "state": "Wisconsin",
+        "latitude": 43.1830827,
+        "longitude": -89.2103139,
+        "officer": true
+    },
+    
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_TempePolice-AZ-min.png",
         "name": "Tempe Police",
