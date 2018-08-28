@@ -344,6 +344,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HerrimanPD-UT-min.png",
+        "name": "Herriman PD",
+        "state": "Utah",
+        "latitude": 40.5166157,
+        "longitude": -112.0166941,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HighlandParkPolice-TX-min.png",
         "name": "Highland Park Police",
         "state": "Texas",
@@ -567,14 +575,6 @@
         "state": "California",
         "latitude": 37.7391328,
         "longitude": -121.4190892,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_TustinPD-CA-min.png",
-        "name": "Tustin PD",
-        "state": "California",
-        "latitude": 33.7432213,
-        "longitude": -117.8195563,
         "officer": true
     },
     {
