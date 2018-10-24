@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="481px" height="174px" viewBox="0 0 481 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>A4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table1" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle-2" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="0.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-2" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="27.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-3" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="54.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-4" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="81.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-5" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="126.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy" stroke="#CCCCCC" fill="#E7E7E7" x="239.5" y="0.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-6" stroke="#CCCCCC" fill="#F7F7F7" x="239.5" y="27.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-9" stroke="#CCCCCC" fill="#FFFFFF" x="239.5" y="126.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-8" stroke="#CCCCCC" fill="#F7F7F7" x="239.5" y="81.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-7" stroke="#CCCCCC" fill="#FFFFFF" x="239.5" y="54.5" width="239" height="27"></rect>
+            <text id="Crime-Reduction" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="19" y="19">Crime Reduction</tspan>
+            </text>
+            <text id="Policies-/-Guideline" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="19" y="46">Policies / Guidelines</tspan>
+            </text>
+            <text id="Training" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="19" y="73">Training</tspan>
+            </text>
+            <text id="Technology-Platforms" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="19" y="100">Technology Platforms</tspan>
+            </text>
+            <text id="Accountability-Repor" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="19" y="145">Accountability Reports</tspan>
+                <tspan x="19" y="160"></tspan>
+            </text>
+            <text id="(Pro-Active-Policing" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
+                <tspan x="258" y="19">(Pro-Active Policing)</tspan>
+            </text>
+            <text id="None-or-Few" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" fill="#333333">
+                <tspan x="258" y="46">None or Few</tspan>
+            </text>
+            <text id="Not-Systematically-d" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" fill="#333333">
+                <tspan x="258" y="145">Not Systematically documented or </tspan>
+                <tspan x="258" y="160">produced</tspan>
+            </text>
+            <text id="Low-$-Investment---E" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" fill="#333333">
+                <tspan x="258" y="100">Low $ Investment - Email, </tspan>
+                <tspan x="258" y="115">Spreadsheets, Homemade Databases</tspan>
+                <tspan x="258" y="130"></tspan>
+            </text>
+            <text id="Little-Time-and-Coac" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal" fill="#333333">
+                <tspan x="258" y="73">Little Time and Coaching</tspan>
+                <tspan x="258" y="88"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
