@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="481px" height="46px" viewBox="0 0 481 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="479px" height="190px" viewBox="0 0 479 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>A4</title>
+    <title>table1</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle-2" stroke="#CCCCCC" fill="#E2E2E2" x="1.5" y="6.5" width="239" height="27"></rect>
-        <rect id="Rectangle-2-Copy" stroke="#CCCCCC" fill="#E2E2E2" x="240.5" y="6.5" width="239" height="27"></rect>
-        <text id="Type-something" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
-            <tspan x="21" y="25">Type something</tspan>
-        </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-1.000000, -1.000000)">
+            <g id="table1" transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle-2" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="0.5" y="0.5" width="239" height="27"></rect>
+                <rect id="Rectangle-2-Copy-2" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="0.5" y="27.5" width="239" height="27"></rect>
+                <rect id="Rectangle-2-Copy-3" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="0.5" y="54.5" width="239" height="45"></rect>
+                <rect id="Rectangle-2-Copy-4" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="0.5" y="99.5" width="239" height="45"></rect>
+                <rect id="Rectangle-2-Copy-5" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="0.5" y="144.5" width="239" height="45"></rect>
+                <rect id="Rectangle-2-Copy" stroke="#C7C7C7" fill="#E2E2E2" opacity="0.699999988" x="239.5" y="0.5" width="239" height="27"></rect>
+                <rect id="Rectangle-2-Copy-6" stroke="#C7C7C7" fill="#F7F7F7" x="239.5" y="27.5" width="239" height="27"></rect>
+                <rect id="Rectangle-2-Copy-9" stroke="#C7C7C7" fill="#FFFFFF" x="239.5" y="144.5" width="239" height="45"></rect>
+                <rect id="Rectangle-2-Copy-8" stroke="#C7C7C7" fill="#F7F7F7" x="239.5" y="99.5" width="239" height="45"></rect>
+                <rect id="Rectangle-2-Copy-7" stroke="#C7C7C7" fill="#FFFFFF" x="239.5" y="54.5" width="239" height="45"></rect>
+                <text id="Calls-for-Service" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="19" y="19">Calls for Service</tspan>
+                </text>
+                <text id="Policies-/-Guideline" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="19" y="46">Policies / Guidelines</tspan>
+                </text>
+                <text id="Training" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="19" y="73">Training</tspan>
+                </text>
+                <text id="Technology-Platforms" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="19" y="118">Technology Platforms</tspan>
+                </text>
+                <text id="Accountability-Repor" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="19" y="163">Accountability Reports</tspan>
+                    <tspan x="19" y="181"></tspan>
+                </text>
+                <text id="(Reactive-Policing)" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14" font-weight="500" fill="#333333">
+                    <tspan x="258" y="19">(Reactive Policing)</tspan>
+                </text>
+                <text id="Many" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="258" y="46">Many</tspan>
+                </text>
+                <text id="Documented-systemati" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="258" y="163">Documented systematically </tspan>
+                    <tspan x="258" y="181">through CAD</tspan>
+                </text>
+                <text id="High-$$$$$$-Investme" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="258" y="118">High $$$$$$</tspan>
+                    <tspan x="258" y="136">Investment – CAD / RMS</tspan>
+                </text>
+                <text id="Lots-of-Time-and-Coa" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="258" y="73">Lots of Time and Coaching</tspan>
+                    <tspan x="258" y="91">(FTO / PTO)</tspan>
+                </text>
+            </g>
+        </g>
     </g>
 </svg>
