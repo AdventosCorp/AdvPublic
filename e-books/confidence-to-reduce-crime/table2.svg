@@ -5,17 +5,17 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="table1" transform="translate(1.000000, 1.000000)">
-            <rect id="Rectangle-2" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="0.5" width="239" height="27"></rect>
-            <rect id="Rectangle-2-Copy-2" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="27.5" width="239" height="27"></rect>
-            <rect id="Rectangle-2-Copy-3" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="54.5" width="239" height="27"></rect>
-            <rect id="Rectangle-2-Copy-4" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="81.5" width="239" height="45"></rect>
-            <rect id="Rectangle-2-Copy-5" stroke="#CCCCCC" fill="#E7E7E7" x="0.5" y="126.5" width="239" height="45"></rect>
-            <rect id="Rectangle-2-Copy" stroke="#CCCCCC" fill="#E7E7E7" x="239.5" y="0.5" width="239" height="27"></rect>
-            <rect id="Rectangle-2-Copy-6" stroke="#CCCCCC" fill="#F7F7F7" x="239.5" y="27.5" width="239" height="27"></rect>
-            <rect id="Rectangle-2-Copy-9" stroke="#CCCCCC" fill="#FFFFFF" x="239.5" y="126.5" width="239" height="45"></rect>
-            <rect id="Rectangle-2-Copy-8" stroke="#CCCCCC" fill="#F7F7F7" x="239.5" y="81.5" width="239" height="45"></rect>
-            <rect id="Rectangle-2-Copy-7" stroke="#CCCCCC" fill="#FFFFFF" x="239.5" y="54.5" width="239" height="27"></rect>
+        <g id="table2" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle-2" stroke="#1991CD" fill="#9DD5F1" x="0.5" y="0.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-2" stroke="#1991CD" fill="#9DD5F1" x="0.5" y="27.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-3" stroke="#1991CD" fill="#9DD5F1" x="0.5" y="54.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-4" stroke="#1991CD" fill="#9DD5F1" x="0.5" y="81.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-5" stroke="#1991CD" fill="#9DD5F1" x="0.5" y="126.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy" stroke="#1991CD" fill="#9DD5F1" x="239.5" y="0.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-6" stroke="#1991CD" fill="#EDF8FC" x="239.5" y="27.5" width="239" height="27"></rect>
+            <rect id="Rectangle-2-Copy-9" stroke="#1991CD" fill="#FFFFFF" x="239.5" y="126.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-8" stroke="#1991CD" fill="#EDF8FC" x="239.5" y="81.5" width="239" height="45"></rect>
+            <rect id="Rectangle-2-Copy-7" stroke="#1991CD" fill="#FFFFFF" x="239.5" y="54.5" width="239" height="27"></rect>
             <text id="Crime-Reduction" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="12" font-weight="500" fill="#333333">
                 <tspan x="19" y="19">Crime Reduction</tspan>
             </text>
