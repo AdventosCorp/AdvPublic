@@ -6,11 +6,6 @@
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/marianoDelleDonne-min.jpg",
                 "name": "Mariano Delle Donne",
                 "label": "CEO & Founder"
-            },
-            {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/kariSkinner-min.jpg",
-                "name": "Kari Skinner",
-                "label": "Controller"
             }
         ]
     },
@@ -36,6 +31,11 @@
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/toddLoggins-min.jpg",
                 "name": "Todd Loggins",
                 "label": "Regional Implementation Manager"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/kariSkinner-min.jpg",
+                "name": "Kari Skinner",
+                "label": "Sales Representative"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/mariaLauraFerradas-min.jpg",
