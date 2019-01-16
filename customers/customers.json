@@ -80,6 +80,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BoyntonBeachPD-FL-min.png",
+        "name": "Boynton Beach PD",
+        "state": "Florida",
+        "latitude": 26.5282618,
+        "longitude": -80.066622,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BrightonPD-CO-min.png",
         "name": "Brighton PD",
         "state": "Colorado",
@@ -136,14 +144,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ClarkstownPolice-NY-min.png",
-        "name": "Clarkstown PD",
-        "state": "New York",
-        "latitude": 41.145623,
-        "longitude": -73.9903156,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DelawareStatePolice-DE-min.png",
         "name": "Delaware State Police",
         "state": "Delaware",
@@ -189,6 +189,14 @@
         "state": "Texas",
         "latitude": 31.8113481,
         "longitude": -106.5646039,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EndicottPD-NY-min.png",
+        "name": "Endicott PD",
+        "state": "New York ",
+        "latitude": 42.0986588,
+        "longitude": -76.0500723,
         "officer": true
     },
     {
@@ -269,6 +277,14 @@
         "state": "Georgia",
         "latitude": 33.7756672,
         "longitude": -84.3996145,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GilbertPD-AZ-min.png",
+        "name": "Gilbert PD",
+        "state": "Arizona",
+        "latitude": 33.3293742,
+        "longitude": -111.7884817,
         "officer": true
     },
     {
@@ -392,6 +408,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PalmBeachSchoolDistrictPD-FL-min.png",
+        "name": "Palm Beach School District PD",
+        "state": "Florida",
+        "latitude": 26.6273039,
+        "longitude": -80.1195967,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PeoriaPD-AZ-min.png",
         "name": "Peoria PD",
         "state": "Arizona",
@@ -464,11 +488,27 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SantaFePD-NM-min.png",
+        "name": "Santa Fe PD",
+        "state": "New Mexico",
+        "latitude": 35.6359593,
+        "longitude": -106.0199906,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ScottsdalePD-AZ-min.png",
         "name": "Scottsdale PD",
         "state": "Arizona",
         "latitude": 33.4724035,
         "longitude": -111.9272516,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneePD-KA-min.png",
+        "name": "Shawnee PD",
+        "state": "Kansas",
+        "latitude": 39.0240044,
+        "longitude": -94.7821448,
         "officer": true
     },
     {
