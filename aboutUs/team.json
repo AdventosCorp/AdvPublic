@@ -15,26 +15,31 @@
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/brianMcGrew-min.jpg",
                 "name": "Brian McGrew",
-                "label": "VP of Education"
+                "label": "VP Sales, Marketing, & Success"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/chrisArvayo-min.jpg",
                 "name": "Chris Arvayo",
-                "label": "Regional Implementation Manager"
+                "label": "Customer Success Manager"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/domKaufman-min.jpg",
                 "name": "Dom Kaufman",
-                "label": "Regional Implementation Manager"
+                "label": "Customer Success Manager"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/toddLoggins-min.jpg",
                 "name": "Todd Loggins",
-                "label": "Regional Implementation Manager"
+                "label": "Customer Success Manager"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/kariSkinner-min.jpg",
                 "name": "Kari Skinner",
+                "label": "Sales Representative"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/whitneyMilek-min.jpg",
+                "name": "Whitney Milek",
                 "label": "Sales Representative"
             },
             {
