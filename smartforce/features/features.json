@@ -3,7 +3,7 @@
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIntel.png",
 			"title":"Smart Intel",
-			"description": "The Intelligence Collaboration Module of SmartForce™ is designed to help reduce targeted crime, improve information sharing and manage activities from Shift Briefings to requests from your community.",
+			"description": "The Intelligence Collaboration Module of SmartForce® is designed to help reduce targeted crime, improve information sharing and manage activities from Shift Briefings to requests from your community.",
 			"items":[
 				{"name":"Alerts & Announcements Dashboard"},
 				{"name":"Shift Briefing Dashboard"},
@@ -30,7 +30,7 @@
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIA.png",
 			"title":"Smart IA",
-			"description":"The High Liability Management Module of SmartForce™ is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
+			"description":"The High Liability Management Module of SmartForce® is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
 			"items":[
 				{"name":"Professional Standards Page"},
 				{"name":"Response to Resistance Management"},
@@ -43,7 +43,7 @@
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartAdmin.png",
 			"title":"Smart Admin",
-			"description":"SmartForce™ allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
+			"description":"SmartForce® allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
 			"items":[
 				{"name":"Policy Compliance Management"},
 				{"name":"Policy Libraries"},
@@ -60,7 +60,7 @@
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartCommunity.png",
 			"title":"Smart Community",
-			"description":"The Community Collaboration Module of SmartForce™ is designed to connect your agency securely with other law enforcement agencies.",
+			"description":"The Community Collaboration Module of SmartForce® is designed to connect your agency securely with other law enforcement agencies.",
 			"items":[
 				{"name":"Community Partner Access Pages"},
 				{"name":"Community Leaders Discussion Forums"},
