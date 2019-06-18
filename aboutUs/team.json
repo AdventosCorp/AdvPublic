@@ -1,11 +1,18 @@
 [
     {
-        "section": "Corporate",
+        "section": "Board of Directors",
         "person": [
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/marianoDelleDonne-min.jpg",
-                "name": "Mariano Delle Donne",
-                "label": "CEO & Founder"
+                "name": "Mariano Delle Donne"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/dougMcArthur-min.jpg",
+                "name": "Doug McArthur"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/andreaYoung-min.jpg",
+                "name": "Andrea Young"
             }
         ]
     },
