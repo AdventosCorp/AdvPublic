@@ -40,11 +40,27 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BACIAA-CA-min.png",
+        "name": "BACIAA",
+        "state": "California",
+        "latitude": 37.1842476,
+        "longitude": -123.7990747,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BelchertownPolice-MA-min.png",
         "name": "Belchertown PD",
         "state": "Massachusetts",
         "latitude": 42.2722621,
         "longitude": -72.4721052,
+        "officer": true
+    },
+	{
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BentonCountySheriff-WA-min.png",
+        "name": "Benton County SO",
+        "state": "Washington",
+        "latitude": 46.2651666,
+        "longitude": -119.5146735,
         "officer": true
     },
     {
@@ -103,6 +119,16 @@
         "longitude": -82.526491,
         "officer": true
     },
+
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DanvillePD-VA-min.png",
+        "name": "Danville PD",
+        "state": "Virginia",
+        "latitude": 36.5863893,
+        "longitude": -79.3941125,
+        "officer": true
+    },
+
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DelawareStatePolice-DE-min.png",
         "name": "Delaware State Police",
@@ -120,6 +146,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DuncanvillePD-TX-min.png",
+        "name": "Duncanville PD",
+        "state": "Texas",
+        "latitude": 32.646524,
+        "longitude": -96.906141,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DublinPolice-OH-min.png",
         "name": "Dublin PD",
         "state": "Ohio",
@@ -133,6 +167,22 @@
         "state": "Arizona",
         "latitude": 33.4031937,
         "longitude": -111.9680465,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ElCajonPD-CA-min.png",
+        "name": "El Cajon PD",
+        "state": "California",
+        "latitude": 32.7968556,
+        "longitude": -116.9626155,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EndicottPD-NY-min.png",
+        "name": "Endicott PD",
+        "state": "New York",
+        "latitude": 42.0986588,
+        "longitude": -76.052261,
         "officer": true
     },
     {
@@ -384,6 +434,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_NewCastleCountyPD-DE-min.png",
+        "name": "New Castle County PD",
+        "state": "Delaware",
+        "latitude": 39.7095194,
+        "longitude": -75.5691633,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OakRidgePD-TN-min.png",
         "name": "Oak Ridge PD",
         "state": "Tennessee",
@@ -488,11 +546,19 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ScottsdalePD-AZ-min.png",
-        "name": "Scottsdale PD",
-        "state": "Arizona",
-        "latitude": 33.4724035,
-        "longitude": -111.9272516,
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SavannahPD-GA-min.png",
+        "name": "Savannah PD",
+        "state": "Georgia",
+        "latitude": 32.0293251,
+        "longitude": -81.1322627,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneeCity-KS-min.png",
+        "name": "Shawnee, City of",
+        "state": "Kansas",
+        "latitude": 39.0161211,
+        "longitude": -94.8772902,
         "officer": true
     },
     {
