@@ -1,5 +1,24 @@
 [
     {
+        "name": "SmartForce® Command Academy 2020",
+        "invitation": {
+            "title" : "SmartForce® Command Academy 2020",
+            "placeImg" : "https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2020/SmartForceCommandAcademy2020_InvitationSite.jpg",
+            "when" : "May 12-15, 2020",
+            "where": {
+                "title": "Cheyenne Mountain Conference Center, 3225 Broadmoor Valley Road, Colorado Springs, CO 80906",
+                "link": "https://goo.gl/maps/PHXj8a3L1GhX9bEk9"
+            }
+        },
+        "registration" : {
+            "title": "",
+            "button": {
+                "title":"Registration Here",
+                "url":"https://smartforce.app/#/smartforce-command-academy2020"
+            }
+        }
+    },
+    {
         "name": "SmartForce™ Command Academy 2018",
         "invitation": {
             "title" : "SmartForce™ Command Academy 2018",
@@ -7,16 +26,9 @@
             "when" : "August 8-10, 2018",
             "where": {
                 "title": "Doubletree by Hilton Hotel Breckenridge, 550 Village Road, Breckenridge CO 80424",
-                "link": "https://goo.gl/maps/7SKj8TV39M92"
+                "link": ""
             },
             "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/presentedByAdventos.svg"
-        },
-        "registration" : {
-            "title": "",
-            "button": {
-                "title":"Registration Here",
-                "url":"https://adventos.com/#!/events/event-aug-18/"
-            }
         },
         "guests":{
             "title":"2018 Guest Speakers",
@@ -81,13 +93,6 @@
                 "link": ""
             },
             "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/footerImg.svg"
-        },
-        "registration" : {
-            "title": "",
-            "button": {
-                "title":"",
-                "url":""
-            }
         },
         "guests":{
             "title": "Pro-Active Policing Speakers, Slide Presentations, and Video Clips",
