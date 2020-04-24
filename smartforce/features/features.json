@@ -2,8 +2,8 @@
 	"features":[
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIntel.png",
-			"title":"Smart Intel",
-			"description": "The Intelligence Collaboration Module of SmartForce® is designed to help reduce targeted crime, improve information sharing and manage activities from Shift Briefings to requests from your community.",
+			"title":"Smart Comms",
+			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others.\\nWithout proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster.\\nSmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
 			"items":[
 				{"name":"Alerts & Announcements Dashboard"},
 				{"name":"Shift Briefing Dashboard"},
@@ -24,7 +24,10 @@
 				{"name":"Public Information Management"},
 				{"name":"House & Business Watch Requests"},
 				{"name":"Community Request Management"},
-				{"name":"Calendaring"}
+				{"name":"Calendaring"},
+				{"name":"Repeat Offender Tracking Dashboard"},
+				{"name":"Case Tracking"},
+				{"name":"Community Partner Sites"}
 			]
 		},
 		{
@@ -33,10 +36,11 @@
 			"description":"The High Liability Management Module of SmartForce® is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
 			"items":[
 				{"name":"Professional Standards Page"},
+				{"name":"Early Intervention Warning System"},
 				{"name":"Response to Resistance Management"},
 				{"name":"Complaints Management"},
 				{"name":"Commendations Management"},
-				{"name":"Pursuits Management"},
+				{"name":"Pursuits and Collisions Management"},
 				{"name":"Public Information Management"}
 			]
 		},
@@ -46,7 +50,6 @@
 			"description":"SmartForce® allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
 			"items":[
 				{"name":"Policy Compliance Management"},
-				{"name":"Policy Libraries"},
 				{"name":"Training & Certification Management"},
 				{"name":"FTO/PTO Management"},
 				{"name":"Quartermaster Management"},
@@ -54,18 +57,8 @@
 				{"name":"Document Management"},
 				{"name":"Calendaring"},
 				{"name":"Time Off Management"},
-				{"name":"Daily Field Activity Reporting"}
-			]
-		},
-		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartCommunity.png",
-			"title":"Smart Community",
-			"description":"The Community Collaboration Module of SmartForce® is designed to connect your agency securely with other law enforcement agencies.",
-			"items":[
-				{"name":"Community Partner Access Pages"},
-				{"name":"Community Leaders Discussion Forums"},
-				{"name":"Activity/Initiative Management"},
-				{"name":"Public Safety & Community Directory"}
+				{"name":"Extra Details Management"},
+				{"name":"Project Management"}
 			]
 		}
 	]
