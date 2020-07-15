@@ -40,6 +40,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ArrowheadRanchPhaseV-HOA-AZ-min.png",
+        "name": "Arrowhead Ranch Phase V HOA",
+        "state": "Arizona",
+        "latitude": 33.4051635,
+        "longitude": -111.9842077,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BACIAA-CA-min.png",
         "name": "BACIAA",
         "state": "California",
@@ -53,14 +61,6 @@
         "state": "Massachusetts",
         "latitude": 42.2722621,
         "longitude": -72.4721052,
-        "officer": true
-    },
-	{
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_BentonCountySheriff-WA-min.png",
-        "name": "Benton County SO",
-        "state": "Washington",
-        "latitude": 46.2651666,
-        "longitude": -119.5146735,
         "officer": true
     },
     {
@@ -88,14 +88,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CanonCityPD-CO-min.png",
-        "name": "Canon City PD",
-        "state": "Colorado",
-        "latitude": 38.4453213,
-        "longitude": -105.1841495,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CasaGrandePD-AZ-min.png",
         "name": "Casa Grande PD",
         "state": "Arizona",
@@ -119,7 +111,30 @@
         "longitude": -82.526491,
         "officer": true
     },
-
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CollierCountySO-FL-min.png",
+        "name": "Collier County SO",
+        "state": "Florida",
+        "latitude": 26.1286533,
+        "longitude": -81.7657954,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ColoradoBureauOfInvestigations-CO-min.png",
+        "name": "Colorado Bureau of Investigations",
+        "state": "Colorado",
+        "latitude": 39.7261878,
+        "longitude": -105.1093553, 
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DalyCityPD-CO-min.png",
+        "name": "Daly City PD",
+        "state": "California",
+        "latitude": 37.6906245,
+        "longitude": -122.4759355,
+        "officer": true
+    },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DanvillePD-VA-min.png",
         "name": "Danville PD",
@@ -128,7 +143,6 @@
         "longitude": -79.3941125,
         "officer": true
     },
-
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DelawareStatePolice-DE-min.png",
         "name": "Delaware State Police",
@@ -146,14 +160,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DuncanvillePD-TX-min.png",
-        "name": "Duncanville PD",
-        "state": "Texas",
-        "latitude": 32.646524,
-        "longitude": -96.906141,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DublinPolice-OH-min.png",
         "name": "Dublin PD",
         "state": "Ohio",
@@ -162,11 +168,19 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EVGCIFC-AZ-min.png",
-        "name": "East Valley Gang & CIFC",
-        "state": "Arizona",
-        "latitude": 33.4031937,
-        "longitude": -111.9680465,
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DuncanvillePD-TX-min.png",
+        "name": "Duncanville PD",
+        "state": "Texas",
+        "latitude": 32.646524,
+        "longitude": -96.906141,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EdwardsvillePD-KS-min.png",
+        "name": "Edwardsville PD",
+        "state": "Kansas",
+        "latitude": 39.0564073,
+        "longitude": -94.8236266,
         "officer": true
     },
     {
@@ -178,27 +192,19 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EndicottPD-NY-min.png",
-        "name": "Endicott PD",
-        "state": "New York",
-        "latitude": 42.0986588,
-        "longitude": -76.052261,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EdmondPoliceDepartment-OK-min.png",
-        "name": "Edmond Police Department",
-        "state": "Oklahoma",
-        "latitude": 35.6538261,
-        "longitude": -97.4794551,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ElPasoPoliceDept-TX-min.png",
         "name": "El Paso Police Department",
         "state": "Texas",
         "latitude": 31.8113481,
         "longitude": -106.5646039,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EndicottPD-NY-min.png",
+        "name": "Endicott PD",
+        "state": "New York",
+        "latitude": 42.0986588,
+        "longitude": -76.052261,
         "officer": true
     },
     {
@@ -266,14 +272,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FraminghamFire-MA-min.png",
-        "name": "Framingham Fire",
-        "state": "Massachusetts",
-        "latitude": 42.2711431,
-        "longitude": -71.4110899,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FraminghamPolice-MA-min.png",
         "name": "Framingham Police",
         "state": "Massachusetts",
@@ -299,7 +297,7 @@
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CityOfGolden-CO-min.png",
-        "name": "Golden City",
+        "name": "Golden, City of",
         "state": "Colorado",
         "latitude": 39.7434546,
         "longitude": -105.2369293,
@@ -314,27 +312,11 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CityOfGrandJunction-CO-min.png",
-        "name": "Grand Junction, City of",
-        "state": "Colorado",
-        "latitude": 39.0633912,
-        "longitude": -108.5604298,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GreenwoodVillagePolice-CO-min.png",
         "name": "Greenwood Village PD",
         "state": "Colorado",
         "latitude": 39.6062874,
         "longitude": -104.9056712,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GreenwoodVillageCityOf-CO-min.png",
-        "name": "Greenwood Village, City of",
-        "state": "Colorado",
-        "latitude": 39.606436,
-        "longitude": -104.9053774,
         "officer": true
     },
     {
@@ -359,6 +341,14 @@
         "state": "Texas",
         "latitude": 30.0462703,
         "longitude": -98.1450752,
+        "officer": true
+    }, 
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HaysCountySheriffsOfficeCorrections-TX-min.png",
+        "name": "Hays County Sheriff's Office Corrections",
+        "state": "Texas",
+        "latitude": 29.8964311, 
+        "longitude": -97.9050084,
         "officer": true
     },    
     {
@@ -402,12 +392,12 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MaricopaCountyAttorney-AZ-min.png",
-        "name": "Maricopa County Attorney's Office",
-        "state": "Arizona",
-        "latitude": 33.4466081,
-        "longitude": -112.0805553,
-        "officer": true
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_LouisvillePD-CO-min.png",
+        "name": "Louisville PD",
+        "state": "Colorado",
+        "latitude": 39.972827,
+        "longitude": -105.1654091,
+        "officer":true
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MatthewsPD-NC-min.png",
@@ -425,12 +415,28 @@
         "longitude": -108.5740023,
         "officer": true
     },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MidlandPD-TX-min.png",
+        "name": "Midland PO",
+        "state": "Texas",
+        "latitude": 32.0032002,
+        "longitude": -102.0781676,
+        "officer": true
+    },
 	{
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_NampaPD-ID-min.png",
         "name": "Nampa PD",
         "state": "Idaho",
         "latitude": 43.5808268,
         "longitude": -116.5637394,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_NationalHIDTA-AZ-min.png",
+        "name": "National HIDTA",
+        "state": "Arizona",
+        "latitude":33.4812577,
+        "longitude": -111.9007921,
         "officer": true
     },
     {
@@ -442,12 +448,12 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OakRidgePD-TN-min.png",
-        "name": "Oak Ridge PD",
-        "state": "Tennessee",
-        "latitude": 36.0121447,
-        "longitude": -84.2579034,
-        "officer": true
+        "img":"https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OdessaPD-TX-min.png",
+        "name": "Odessa PD", 
+        "state": "Texas",
+        "latitude": 31.8459008,
+        "longitude": -102.3711232,
+        "officer":true
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OlathePD-KS-min.png",
@@ -458,12 +464,28 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_OrangeCountySO-NC-min.png",
+        "name":"Orange County SO",
+        "state": "North Carolina",
+        "latitude": 36.0742061,
+        "longitude": -79.1008935,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PalmBeachSchoolDistrictPD-FL-min.png",
         "name": "Palm Beach County ISD PD",
         "state": "Florida",
         "latitude": 26.6273039,
         "longitude": -80.1195967,
         "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PearlandPD-TX-min.png",
+        "name": "Pearland PD",
+        "state": "Texas",
+        "latitude": 29.5628453,
+        "longitude": -95.3522664,
+        "officer":true
     },
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PeoriaPD-AZ-min.png",
@@ -495,6 +517,14 @@
         "state": "Washington",
         "latitude": 46.2853081,
         "longitude": -119.4459268,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RoanokePD-VA-min.png",
+        "name": "Roanoke PD",
+        "state": "Virginia",
+        "latitude": 37.271129,
+        "longitude": -79.9498338,
         "officer": true
     },
     {
@@ -530,19 +560,19 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SanLeandroPD-CA-min.png",
+        "name": "San Leandro PD",
+        "state": "California",
+        "latitude": 37.7279725,
+        "longitude": -122.1612268,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SanMateoSheriff-CA-min.png",
         "name": "San Mateo County SO",
         "state": "California",
         "latitude": 37.4880029,
         "longitude": -122.2328898,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SantaFePD-NM-min.png",
-        "name": "Santa Fe PD",
-        "state": "New Mexico",
-        "latitude": 35.6359593,
-        "longitude": -106.0199906,
         "officer": true
     },
     {
@@ -554,14 +584,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneeCity-KS-min.png",
-        "name": "Shawnee, City of",
-        "state": "Kansas",
-        "latitude": 39.0161211,
-        "longitude": -94.8772902,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneePD-KA-min.png",
         "name": "Shawnee PD",
         "state": "Kansas",
@@ -570,19 +592,11 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SpokanePolice-WA-min.png",
-        "name": "Spokane PD",
-        "state": "Washington",
-        "latitude": 47.6655951,
-        "longitude": -117.4311595,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SpokaneCntySheriff-WA-min.png",
-        "name": "Spokane County Sheriff",
-        "state": "Washington",
-        "latitude": 47.6655197,
-        "longitude": -117.4311378,
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SpringHillPD-KS-min.png",
+        "name": "Spring Hill PD",
+        "state": "Kansas",
+        "latitude": 38.7439425,
+        "longitude": -94.8200308,
         "officer": true
     },
     {
