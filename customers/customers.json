@@ -568,6 +568,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SanMarcosPD-TX-min.png",
+        "name": "San Marcos PD",
+        "state": "Texas",
+        "latitude": ,
+        "longitude": ,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SanMateoSheriff-CA-min.png",
         "name": "San Mateo County SO",
         "state": "California",
