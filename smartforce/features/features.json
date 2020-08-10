@@ -3,7 +3,7 @@
 		{
 			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIntel.png",
 			"title":"Smart Comms",
-			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others.\\nWithout proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster.\\nSmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
+			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
 			"items":[
 				{"name":"Alerts & Announcements Dashboard"},
 				{"name":"Shift Briefing Dashboard"},
