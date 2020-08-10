@@ -86,6 +86,16 @@
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloVerussa-min.jpg",
                 "name": "Gonzalo Verussa",
                 "label": "Support Engineer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/eimiCampos-min.png",
+                "name": "Eimi Campos",
+                "label": "Visual Designer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/federicoCasales-min.png",
+                "name": "Federico Casales",
+                "label": "Support Engineer"
             }
         ]
     },
