@@ -152,6 +152,15 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DonaAnaCountySO-NM-min.png",
+        "name": "Dona Ana County SO",
+        "state": "Nuevo México",
+        "latitude": 32.3058073,
+        "longitude": -106.8179062,
+        "officer": true
+
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DouglasCountyLibraries-CO-min.png",
         "name": "Douglas County Libraries",
         "state": "Colorado",
