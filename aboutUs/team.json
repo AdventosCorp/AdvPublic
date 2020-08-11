@@ -8,6 +8,11 @@
                 "label": "Founder and CEO"
             },
             {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/stephanieBanister-min.jpg",
+                "name": "Stephanie Banister",
+                "label": "Accountant"
+            },
+            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/brianMcGrew-min.jpg",
                 "name": "Brian McGrew",
                 "label": "VP Sales, Marketing, & Success"
@@ -16,11 +21,6 @@
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/mariaLauraFerradas-min.jpg",
                 "name": "María Laura Ferradás",
                 "label": "QA and Support Lead"
-            },
-            {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/julianTobio-min.jpg",
-                "name": "Julián Tobio",
-                "label": "Development Lead"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloCervantes-min.jpg",
@@ -38,24 +38,29 @@
                 "label": "Manager Success, Product"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/toddLoggins-min.jpg",
-                "name": "Todd Loggins",
-                "label": "Sr. Customer Success Manager"
-            },
-            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/luisCuccarollo-min.jpg",
                 "name": "Luis Cuccarollo",
                 "label": "Sr. Systems Administrator"
             },
             {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloVerussa-min.jpg",
+                "name": "Gonzalo Verussa",
+                "label": "Support Engineer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/federicoCasales-min.png",
+                "name": "Federico Casales",
+                "label": "Support Engineer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/julianTobio-min.jpg",
+                "name": "Julián Tobio",
+                "label": "Development Lead"
+            },
+            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/pedroCastano-min.jpg",
                 "name": "Pedro Castaño",
                 "label": "Front End Lead"
-            },
-            {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/lucianaQuinteros-min.jpg",
-                "name": "Luciana Quinteros",
-                "label": "Sr. Developer"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/florenciaAntacle-min.jpg",
@@ -68,9 +73,9 @@
                 "label": "Sr. DevOps Engineer"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/stephanieBanister-min.jpg",
-                "name": "Stephanie Banister",
-                "label": "Accountant"
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/toddLoggins-min.jpg",
+                "name": "Todd Loggins",
+                "label": "Sr. Customer Success Manager"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/andySanchez-min.jpg",
@@ -78,24 +83,19 @@
                 "label": "Customer Success Manager"
             },
             {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/lucianaQuinteros-min.jpg",
+                "name": "Luciana Quinteros",
+                "label": "Sr. Developer"
+            },
+            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/martinWeingart-min.jpg",
                 "name": "Martin Weingart",
                 "label": "Developer"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloVerussa-min.jpg",
-                "name": "Gonzalo Verussa",
-                "label": "Support Engineer"
-            },
-            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/eimiCampos-min.png",
                 "name": "Eimi Campos",
                 "label": "Visual Designer"
-            },
-            {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/federicoCasales-min.png",
-                "name": "Federico Casales",
-                "label": "Support Engineer"
             }
         ]
     },
