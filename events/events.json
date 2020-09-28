@@ -1,9 +1,176 @@
 [
     {
-        "document": {
+        "name": "SmartForce® Command Academy 2021",
+        "invitation": {
             "title" : "SmartForce® Command Academy 2021",
-            "cover" : "https://adventoscorp.github.io/AdvPublic/resources/images/img_resources.jpg",
-            "link": "https://goo.gl/maps/PHXj8a3L1GhX9bEk9"
+            "placeImg" : "https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2021/SmartForceCommandAcademy2021_InvitationSite.jpg",
+            "when" : "Oct. 26-29, 2021",
+            "where": {
+                "title": "Cheyenne Mountain Conference Center, 3225 Broadmoor Valley Road, Colorado Springs, CO 80906",
+                "link": "https://goo.gl/maps/PHXj8a3L1GhX9bEk9"
+            }
+        },
+        "registration" : {
+            "title": "",
+            "button": {
+                "title":"Registration Here",
+                "url":"https://smartforce.app/#/smartforce-command-academy2021"
+            }
+        }
+    },
+    {
+        "name": "SmartForce™ Command Academy 2018",
+        "invitation": {
+            "title" : "SmartForce™ Command Academy 2018",
+            "placeImg" : "https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/events/images/events/smartforce_2018/SmartForceCommandAcademy2018_InvitationSite.jpg",
+            "when" : "August 8-10, 2018",
+            "where": {
+                "title": "Doubletree by Hilton Hotel Breckenridge, 550 Village Road, Breckenridge CO 80424",
+                "link": ""
+            },
+            "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/presentedByAdventos.svg"
+        },
+        "guests":{
+            "title":"2018 Guest Speakers",
+            "speakers": [
+                {
+                    "name":"Dr. Jerry Ratcliffe",
+                    "job":"Director, Center for Security & Crime Science, Temple University, Philadelphia, PA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/jerryRatcliffe.png"
+                },
+                {
+                    "name":"Dr. Rachel Santos",
+                    "job":"Professor of Criminal Justice, Radford University, Radford, VA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/rachelSantos-min.jpg"
+                },
+                {
+                    "name":"Dr. Roberto Santos",
+                    "job":"Assistant Professor of Criminal Justice, Radford University, VA",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/robertoSantos-min.jpg"
+                },
+                {
+                    "name":"Eddie Johnson",
+                    "job":"Deputy Chief, Maricopa County Attorneys Office, Phoenix, AZ",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/eddieJohnson-min.jpg"
+                },
+                {
+                    "name":"Todd Reichert",
+                    "job":"Administrator, North Texas Anti-Gang Center, Irving, TX",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/toddReichert-min.jpg"
+                },
+                {
+                    "name":"John Bolduc",
+                    "job":"Chief of Police, Port St. Lucie, FL",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/johnBolduc.png"
+                },
+                {
+                    "name":"Domenick Kaufman",
+                    "job":"Former Sergeant, East Valley Gang & Criminal Information Fusion Center, AZ",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/domKaufman-min.jpg"
+                },
+                {
+                    "name":"Guy Grace",
+                    "job":"Director of Security and Emergency Planning, Littleton Public Schools, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/guyGrace-min.jpg"
+                },
+                {
+                    "name":"Jack Cauley",
+                    "job":"Chief of Police, Castle Rock Police Department, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/smartforce_2018/guests/jackCauley-min.jpeg"
+                }
+            ]
+        },
+        "moreInformation" : "Other Speakers on Organized Retail Crime and Emergency Preparation"
+    },
+    {
+        "name": "LEAP Command Academy 2016",
+        "invitation": {
+            "title" : "LEAP Command Academy 2016",
+            "placeImg" : "https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/events/images/events/leap_2016/VailUserMeeting_InvitationSite.jpg",
+            "when" : "September 8-9, 2016",
+            "where": {
+                "title": "Marriott Vail Mountain Resort &amp;<br>Spa 715 West Lionshead Circle Vail,<br>CO 81657",
+                "link": ""
+            },
+            "footerImg":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/footerImg.svg"
+        },
+        "guests":{
+            "title": "Pro-Active Policing Speakers, Slide Presentations, and Video Clips",
+            "speakers": [
+                {
+                    "name":"Dwight Henninger",
+                    "job":"Chief of Police Vail, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/dwightHenninger.jpg",
+                    "files": [
+                        {
+                            "title":"Emergency Management Prep:Alpine World Ski Champs",
+                            "url":"https://adventos.com/public_files/events/LEAP2016EmergencyMgmt.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"John Camper",
+                    "job":"Chief of Police Grand Junction, CO",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/johnCamper.jpg",
+                    "files": [
+                        {
+                            "title":"The Chronically Homeless:  Old Problem, New Challenges",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HomelessPresentation.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"John Bolduc",
+                    "job":"Chief of Police Port St. Lucie, FL",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/johnBolduc.png",
+                    "files": [
+                        {
+                            "title":"Evolution of Crime Reduction Strategies",
+                            "url":"https://adventos.com/public_files/events/LEAP2016BolducEvolutionofPolicingStrategies.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Implementing Stratified Policing Case Study",
+                            "url":"https://adventos.com/public_files/events/LEAP2016BolducImplementingStratifiedPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Micro-Time Hot-Spots Policing",
+                            "url":"https://adventos.com/public_files/events/LEAP2016MicroTimeHotSpotsPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Long-Term Problem Policing",
+                            "url":"https://adventos.com/public_files/events/LEAP2016LongTermProblemsPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                },
+                {
+                    "name":"Dr. Lee Hunt",
+                    "job":"Manager of IT Systems Greensboro, NC",
+                    "img":"https://adventoscorp.github.io/AdvPublic/events/images/events/leap_2016/guests/drLeeHunt.jpg",
+                    "files": [
+                        {
+                            "title":"Implementing Stratified Policing Case Study",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntImplementingStratifiedPolicing.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Crime Analysis as part of a Crime Reduction Strategy",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntCrimeAnalysisCrimeReduction.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        },
+                        {
+                            "title":"Assisting in Short-Term & Long-Term Crime Reduction Efforts",
+                            "url":"https://adventos.com/public_files/events/LEAP2016HuntCrimeAnalysisShortTermLongTerm.pdf",
+                            "icon":"https://adventoscorp.github.io/AdvPublic/events/images/assets/icons/pdf.png"
+                        }
+                    ]
+                }
+            ]
         }
     }
 ]
