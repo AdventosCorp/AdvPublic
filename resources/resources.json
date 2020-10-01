@@ -1,9 +1,119 @@
-[
-    {
-        "document": {
-            "title" : "Crime Reduction e-book",
-            "cover" : "https://adventoscorp.github.io/AdvPublic/resources/images/img_resources.jpg",
-            "link": "https://smartforcetech.com"
+{
+    "documents": [
+        {
+            "title": "Content",
+            "content": [
+                {
+                    "title" : "",
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
+                    "link": "https://smartforcetech.com"
+                },
+                {
+                    "title" : "",
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
+                    "link": "https://smartforcetech.com"
+                },
+                {
+                    "title" : "",
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
+                    "link": "https://smartforcetech.com"
+                },
+                {
+                    "title" : "",
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
+                    "link": "https://smartforcetech.com"
+                }
+            ]
+        },
+        {
+            "title": "Customer Case Study",
+            "content": [
+                {
+                    "title" : "",
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
+                    "link": "https://smartforcetech.com"
+                }
+            ]
         }
+    ],
+    "videos": {
+        "title": "Videos",
+        "content": [
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_smartforce.jpg",
+                "link": "https://www.youtube.com/watch?v=9qnFKtvcjNI"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_smartforce.jpg",
+                "link": "https://www.youtube.com/watch?v=Q7BtpLSsEj4"
+            }
+        ]
+    },
+    "blogposts": {
+        "title": "Blog Posts",
+        "content": [
+            {
+                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
+                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
+                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
+                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
+                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
+                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            },
+            {
+                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
+                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+            }
+        ]
     }
-]
+}
