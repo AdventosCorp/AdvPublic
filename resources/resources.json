@@ -10,18 +10,18 @@
                 },
                 {
                     "title" : "",
-                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
-                    "link": "https://smartforcetech.com/public_files/resources/.pdf"
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/Cover_ProactivePolicingWhitePaper.jpg",
+                    "link": "https://smartforcetech.com/public_files/resources/ProactivePolicingWhitePaper.pdf"
                 },
                 {
                     "title" : "",
-                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
-                    "link": "https://smartforcetech.com/public_files/resources/.pdf"
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/Cover_WhitePaperCrimeAnalysisProductDissemination.jpg",
+                    "link": "https://smartforcetech.com/public_files/resources/WhitePaperCrimeAnalysisProductDissemination.pdf"
                 },
                 {
                     "title" : "",
-                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
-                    "link": "https://smartforcetech.com/public_files/resources/.pdf"
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/Cover_WhitePaperInsights-LedPolicing.jpg",
+                    "link": "https://smartforcetech.com/public_files/resources/WhitePaperInsights-LedPolicing.pdf"
                 }
             ]
         },
@@ -30,8 +30,8 @@
             "content": [
                 {
                     "title" : "",
-                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/document_resources.jpg",
-                    "link": "https://smartforcetech.com/public_files/resources/.pdf"
+                    "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/Cover_RichlandPoliceDeptCaseStudy.jpg",
+                    "link": "https://smartforcetech.com/public_files/resources/RichlandPoliceDeptCaseStudy.pdf"
                 }
             ]
         }
@@ -46,8 +46,38 @@
             },
             {
                 "title" : "",
-                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_smartforce.jpg",
-                "link": "https://www.youtube.com/watch?v=Q7BtpLSsEj4"
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_CastelRockPD.jpg",
+                "link": "https://www.youtube.com/watch?v=QU7zVaNq3sE&t=3418s"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_SpokanePD.jpg",
+                "link": "https://www.youtube.com/watch?v=jvrCtz3bY6M&t=53s"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_KennewickPD.jpg",
+                "link": "https://www.youtube.com/watch?v=g0JKD4zBsC4&t=16s"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_MicroTimeHotSpotsPolicing.jpg",
+                "link": "https://www.youtube.com/watch?v=Ubrkf1c5xe0&t=31s"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_CrimePatternBulletingStudy.jpg",
+                "link": "https://www.youtube.com/watch?v=Q7BtpLSsEj4&t=96s"
+            }
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_BulletinWizardOffer.jpg",
+                "link": "https://www.youtube.com/watch?v=PixN99dJwAU&t=97s"
+            },
+            {
+                "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_BulletinWizardHowTo.jpg",
+                "link": "https://www.youtube.com/watch?v=UGrxAANWMgY&t=99s"
             }
         ]
     },
@@ -63,56 +93,60 @@
                 "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
             },
             {
-                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
-                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+                "title" : "Excellence in Policing Award",
+                "link": "https://smartforcetech.com/blog/adventos/excellence-in-policing-award/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "Taking the Leap into Insights-Led Policing",
+                "link": "https://smartforcetech.com/blog/adventos/taking-the-leap-into-insights-led-policing/"
             },
             {
-                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
-                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+                "title" : "The Three Critical Keys to Success in Reducing Crime",
+                "link": "https://smartforcetech.com/blog/adventos/the-three-critical-keys-to-success-in-reducing-crime/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "Five Major Elements to Improve Communication between Patrol and Investigations using SmartForce®",
+                "link": "https://smartforcetech.com/blog/adventos/five-major-elements-to-improve-communication-between-patrol-and-investigations-using-smartforce/"
             },
             {
-                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
-                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+                "title" : "What is DDACTS and why does it matter?",
+                "link": "https://smartforcetech.com/blog/agency-management-system/what-is-ddacts-and-why-does-it-matter/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "Five Keys to Setting Up a Successful Police Intel Unit",
+                "link": "https://smartforcetech.com/blog/adventos/five-keys-to-setting-up-a-successful-police-intel-unit/"
             },
             {
-                "title" : "Become a Great Law Enforcement Leader During the COVID-19 Pandemic",
-                "link": "https://smartforcetech.com/blog/agency-management-system/become-a-great-law-enforcement-leader-during-the-covid-19-pandemic/"
+                "title" : "Adventos joins the Colorado Technology Association (CTA)",
+                "link": "https://smartforcetech.com/blog/adventos/adventos-joins-the-colorado-technology-association-cta/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "eBook + Resources: The Most Powerful Guide to Reducing Crime",
+                "link": "https://smartforcetech.com/blog/adventos/ebook-resources-the-most-powerful-guide-to-reducing-crime/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "10 Steps to Effective Intelligence-led Policing (ILP)",
+                "link": "https://smartforcetech.com/blog/2018/06/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "Tips for Choosing the Right Training Conference to Justify the Cost and Time Out-of-the-Office",
+                "link": "https://smartforcetech.com/blog/2018/05/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "New Proactive Policing White Paper – 4 Types and Tips",
+                "link": "https://smartforcetech.com/blog/2018/04/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "Hot Spot Policing: Make the Most Out of This Proactive Policing Strategy",
+                "link": "https://smartforcetech.com/blog/2018/01/"
             },
             {
-                "title" : "Overcoming the Void in Leadership Training on Modern Crime Reduction Models",
-                "link": "https://smartforcetech.com/blog/agency-management-system/overcoming-the-void-in-leadership-training-on-modern-crime-reduction-models/"
+                "title" : "ILP: Make a Bigger Impact with Intelligence Sharing in 2018!",
+                "link": "https://smartforcetech.com/blog/2017/12/"
+            },
+            {
+                "title" : "Castle Rock Police Success with Collaboration",
+                "link": "https://smartforcetech.com/blog/2017/11/"
             }
         ]
     }
