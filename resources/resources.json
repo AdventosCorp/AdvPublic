@@ -42,42 +42,42 @@
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_smartforce.jpg",
-                "link": "https://www.youtube.com/watch?v=9qnFKtvcjNI"
+                "link": "https://youtu.be/9qnFKtvcjNI"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_CastelRockPD.jpg",
-                "link": "https://www.youtube.com/watch?v=QU7zVaNq3sE&t=3418s"
+                "link": "https://youtu.be/QU7zVaNq3sE"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_SpokanePD.jpg",
-                "link": "https://www.youtube.com/watch?v=jvrCtz3bY6M&t=53s"
+                "link": "https://youtu.be/jvrCtz3bY6M"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_KennewickPD.jpg",
-                "link": "https://www.youtube.com/watch?v=g0JKD4zBsC4&t=16s"
+                "link": "https://youtu.be/g0JKD4zBsC4"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_MicroTimeHotSpotsPolicing.jpg",
-                "link": "https://www.youtube.com/watch?v=Ubrkf1c5xe0&t=31s"
+                "link": "https://youtu.be/Ubrkf1c5xe0"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_CrimePatternBulletingStudy.jpg",
-                "link": "https://www.youtube.com/watch?v=Q7BtpLSsEj4&t=96s"
+                "link": "https://youtu.be/Q7BtpLSsEj4"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_BulletinWizardOffer.jpg",
-                "link": "https://www.youtube.com/watch?v=PixN99dJwAU&t=97s"
+                "link": "https://youtu.be/PixN99dJwAU"
             },
             {
                 "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_BulletinWizardHowTo.jpg",
-                "link": "https://www.youtube.com/watch?v=UGrxAANWMgY&t=99s"
+                "link": "https://youtu.be/UGrxAANWMgY"
             }
         ]
     },
@@ -147,6 +147,34 @@
             {
                 "title" : "Castle Rock Police Success with Collaboration",
                 "link": "https://smartforcetech.com/blog/2017/11/"
+            },
+            {
+                "title" : "21st Century Public Safety: The Power of Technology in Public Service",
+                "link": "https://smartforcetech.com/blog/2017/10/"
+            },
+            {
+                "title" : "SmartForce BulletinWizard aids Retail Theft Initiatives",
+                "link": "https://smartforcetech.com/blog/2017/09/"
+            },
+            {
+                "title" : "Improving Crime Analysis Products & Creating them in Less Time",
+                "link": "https://smartforcetech.com/blog/2017/06/"
+            },
+            {
+                "title" : "A Proactive Approach to Crime Reduction at Grand Junction Police Dept.",
+                "link": "https://smartforcetech.com/blog/2017/05/"
+            },
+            {
+                "title" : "Teaming Up: A Proactive Approach to Crime Reduction",
+                "link": "https://smartforcetech.com/blog/2017/04/"
+            },
+            {
+                "title" : "Bulletin Wizard Group Sharing: a new feature available Now",
+                "link": "https://smartforcetech.com/blog/2017/02/"
+            },
+            {
+                "title" : "Why we do what we do",
+                "link": "https://smartforcetech.com/blog/2017/01/"
             }
         ]
     }
