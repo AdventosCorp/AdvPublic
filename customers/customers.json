@@ -201,6 +201,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EllensburgPD-WA-min.png",
+        "name": "Ellensburg PD",
+        "state": "Washington",
+        "latitude": 46.9926357,
+        "longitude": -120.5502583,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ElPasoPoliceDept-TX-min.png",
         "name": "El Paso Police Department",
         "state": "Texas",
@@ -249,6 +257,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FayettevillePD-NC-min.png",
+        "name": "Fayetteville PD",
+        "state": "North Carolina",
+        "latitude": 35.0541762,
+        "longitude": -78.8866279,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ForsythCountySheriff-NC-min.png",
         "name": "Forsyth County Sheriff",
         "state": "North Carolina",
@@ -286,6 +302,14 @@
         "state": "Massachusetts",
         "latitude": 42.2805633,
         "longitude": -71.4196623,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GardenCityPD-KS-min.png.png",
+        "name": "Garden City PD",
+        "state": "Kansas",
+        "latitude": 37.9676572,
+        "longitude": -100.8781181,
         "officer": true
     },
     {
@@ -678,14 +702,6 @@
         "state": "Colorado",
         "latitude": 39.6439057,
         "longitude": -106.3796436,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_WyliePD-TX-min.png",
-        "name": "Wylie PD",
-        "state": "Texas",
-        "latitude": 33.0245442,
-        "longitude": -96.5145655,
         "officer": true
     },
     {
