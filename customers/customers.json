@@ -705,6 +705,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VanderburghCountySO-IN-min.png",
+        "name": "Vanderburgh County SO",
+        "state": "Indiana",
+        "latitude": 38.0116045,
+        "longitude": -87.5444011,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_YumaPD-AZ-min.png",
         "name": "Yuma PD",
         "state": "Arizona",
