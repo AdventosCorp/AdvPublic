@@ -193,14 +193,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ElCajonPD-CA-min.png",
-        "name": "El Cajon PD",
-        "state": "California",
-        "latitude": 32.7968556,
-        "longitude": -116.9626155,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_EllensburgPD-WA-min.png",
         "name": "Ellensburg PD",
         "state": "Washington",
@@ -534,6 +526,14 @@
         "state": "Arizona",
         "latitude": 33.0412433,
         "longitude": -111.3760711,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PocatelloPD-ID-min.png",
+        "name": "Pocatello PD",
+        "state": "Idaho",
+        "latitude": 44.083786,
+        "longitude": -127.5336286,
         "officer": true
     },
     {
