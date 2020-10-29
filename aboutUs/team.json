@@ -8,11 +8,6 @@
                 "label": "Founder and CEO"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/stephanieBanister-min.jpg",
-                "name": "Stephanie Banister",
-                "label": "Accountant"
-            },
-            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/brianMcGrew-min.jpg",
                 "name": "Brian McGrew",
                 "label": "VP Sales, Marketing, & Success"
@@ -23,9 +18,19 @@
                 "label": "QA and Support Lead"
             },
             {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/chrisArvayo-min.jpg",
+                "name": "Chris Arvayo",
+                "label": "Manager Success, Product"
+            },
+            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloCervantes-min.jpg",
                 "name": "Gonzalo Cervantes",
                 "label": "Product Manager Lead"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/stephanieBanister-min.jpg",
+                "name": "Stephanie Banister",
+                "label": "Accountant"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/domKaufman-min.jpg",
@@ -33,19 +38,14 @@
                 "label": "Manager Success, Customer"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/chrisArvayo-min.jpg",
-                "name": "Chris Arvayo",
-                "label": "Manager Success, Product"
-            },
-            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/luisCuccarollo-min.jpg",
                 "name": "Luis Cuccarollo",
                 "label": "Sr. Systems Administrator"
             },
             {
-                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloVerussa-min.jpg",
-                "name": "Gonzalo Verussa",
-                "label": "Support Engineer"
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/JoaquinLosada-min.png",
+                "name": "Joaquín Losada",
+                "label": "QA Engineer"
             },
             {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/federicoCasales-min.png",
@@ -96,6 +96,16 @@
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/eimiCampos-min.png",
                 "name": "Eimi Campos",
                 "label": "Visual Designer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/gonzaloVerussa-min.jpg",
+                "name": "Gonzalo Verussa",
+                "label": "Backend Engineer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/LucianaGabis-min.png",
+                "name": "Luciana Gabis",
+                "label": "Backend Engineer"
             }
         ]
     },
