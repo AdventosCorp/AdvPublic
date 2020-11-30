@@ -1,8 +1,8 @@
 {
 	"features":[
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIntel.png",
-			"title":"Smart Comms",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartcomms.png",
+			"title":"SmartComms",
 			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
 			"items":[
 				{"name":"Alerts & Announcements Dashboard"},
@@ -31,8 +31,38 @@
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIA.png",
-			"title":"Smart IA",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartcommsplus.png",
+			"title":"SmartComms Plus",
+			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
+			"items":[
+				{"name":"Alerts & Announcements Dashboard"},
+				{"name":"Shift Briefing Dashboard"},
+				{"name":"Ops Discussion Dashboard"},
+				{"name":"Ops Activity Reporting"},
+				{"name":"Real-Time Criminal Discussion Threads"},
+				{"name":"Officer Safety Bulletin, BOLO, Photo, and Video Libraries"},
+				{"name":"CJIS Compliant Bulletin Dissemination"},
+				{"name":"Significant Incident Reporting"},
+				{"name":"Secure Investigations Workspaces"},
+				{"name":"Task Force Management"},
+				{"name":"Sex Offender Management"},
+				{"name":"Trespass Management"},
+				{"name":"Stolen Vehicle Hotsheets"},
+				{"name":"Wants and Warrants Dashboard"},
+				{"name":"Search Warrant Management"},
+				{"name":"Task Assignment Management"},
+				{"name":"Public Information Management"},
+				{"name":"House & Business Watch Requests"},
+				{"name":"Community Request Management"},
+				{"name":"Calendaring"},
+				{"name":"Repeat Offender Tracking Dashboard"},
+				{"name":"Case Tracking"},
+				{"name":"Community Partner Sites"}
+			]
+		},
+		{
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartia.png",
+			"title":"SmartIA",
 			"description":"The High Liability Management Module of SmartForce® is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
 			"items":[
 				{"name":"Professional Standards Page"},
@@ -45,8 +75,8 @@
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartAdmin.png",
-			"title":"Smart Admin",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartadmin.png",
+			"title":"SmartAdmin",
 			"description":"SmartForce® allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
 			"items":[
 				{"name":"Policy Compliance Management"},
