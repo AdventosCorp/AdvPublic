@@ -1,7 +1,7 @@
 {
 	"features":[
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartcomms.png",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-comms.png",
 			"title":"SmartComms",
 			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
 			"items":[
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartcommsplus.png",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-comms-plus.png",
 			"title":"SmartComms Plus",
 			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
 			"items":[
@@ -61,7 +61,7 @@
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartia.png",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-ia.png",
 			"title":"SmartIA",
 			"description":"The High Liability Management Module of SmartForce® is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
 			"items":[
@@ -75,7 +75,7 @@
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smartadmin.png",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-admin.png",
 			"title":"SmartAdmin",
 			"description":"SmartForce® allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
 			"items":[
