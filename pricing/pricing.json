@@ -6,7 +6,7 @@
 		{
 			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
 			"title":"SmartComms",
-			"mostpopular": true,
+			"mostpopular": false,
 			"prices":[
 				{
 					"users":"501+",
@@ -62,7 +62,7 @@
 		{
 			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
 			"title":"SmartComms Plus",
-			"mostpopular": true,
+			"mostpopular": false,
 			"prices":[
 				{
 					"users":"501+",
