@@ -16,38 +16,32 @@
 				},
 				{
 					"users":"401 - 500",
-					"userslabel":"sword",
+					"userslabel":"sworn",
 					"price":"$12,500",
 					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"301 - 400",
-					"userslabel":"sword",
+					"userslabel":"sworn",
 					"price":"$10,000",
 					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"201 - 300",
-					"userslabel":"sword",
+					"userslabel":"sworn",
 					"price":"$7,500",
 					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"101 - 200",
-					"userslabel":"sword",
+					"userslabel":"sworn",
 					"price":"$5,000",
 					"priceperiod":"per 6 months"
 				},
 				{
-					"users":"51 - 100",
-					"userslabel":"sword",
+					"users":"Up to 100",
+					"userslabel":"sworn",
 					"price":"$2,500",
-					"priceperiod":"per 6 months"
-				},
-				{
-					"users":"Up to 50",
-					"userslabel":"sword",
-					"price":"$10,000",
 					"priceperiod":"per 6 months w/Office365"
 				}
 			],
