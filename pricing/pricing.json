@@ -101,7 +101,13 @@
 					"priceperiod":"per year"
 				}
 			],
-			"items":["Everything in SmartComms", "+", "Crime Project Calculators", "Investigations, Crime Analysis, Patrol, & Specialty Unit Pages", "Community Policing Partner Pages", "And much More..."],
+			"items":[
+				"Everything in SmartComms",
+				"+",
+				"Crime Project Calculators",
+				"Investigations, Crime Analysis, Patrol, & Specialty Unit Pages",
+				"Community Policing Partner Pages", "And much More..."
+			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
 				"label":"Schedule Your Free Demo",
