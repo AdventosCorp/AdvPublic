@@ -4,7 +4,7 @@
 	"content": "Configuring SmartForce® to match your needs and agency policies as well as implementation training is included at no extra charge.<br>Also, there is very little IT burden and your data is extremely secure since SmartForce® is designed to work in the CJIS compliant Microsoft Government Cloud.",
 	"features":[
 		{
-			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/smartComms.png",
 			"title":"SmartComms",
 			"mostpopular": false,
 			"prices":[
@@ -54,7 +54,7 @@
 			}
 		},
 		{
-			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/smartCommsPlus.png",
 			"title":"SmartComms Plus",
 			"mostpopular": false,
 			"prices":[
@@ -116,7 +116,7 @@
 			}
 		},
 		{
-			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIA.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/smartIA.png",
 			"title":"SmartIA",
 			"prices":[
 				{
@@ -177,7 +177,7 @@
 			}
 		},
 		{
-			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartAdmin.png",
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/smartAdmin.png",
 			"title":"SmartAdmin",
 			"prices":[
 				{
