@@ -1,47 +1,118 @@
 {
 	"title": "Get Started Today",
 	"subtitle": "Sign up and get the #1 Law Enforcement Agency Management System.",
-	"content": "SmartForce<span class='tm'></span> is specifically designed to work with Microsoft Office365, but can also work in other environments or be hosted by Adventos in our CJIS Compliant Government Cloud. Call to learn which environment is best for your agency’s needs and quotes.<br>Basic On-Boarding training is included with your subscription. However, extra support, training, or custom professional services can be provided through Adventos Assurance packages starting at $4,995.00",
+	"content": "Configuring SmartForce® to match your needs and agency policies as well as implementation training is included at no extra charge.<br>Also, there is very little IT burden and your data is extremely secure since SmartForce® is designed to work in the CJIS compliant Microsoft Government Cloud.",
 	"features":[
 		{
 			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
 			"title":"SmartComms",
-			"mostpopular": true,
+			"mostpopular": false,
 			"prices":[
 				{
-					"users":"500+",
-					"callforquote":true
+					"users":"501+",
+					"userslabel":"users",
+					"callforquote":true,
+					"priceperiod":""
 				},
 				{
 					"users":"401 - 500",
-					"priceperyear":"$45,000"
+					"userslabel":"sworn",
+					"price":"$12,500",
+					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"301 - 400",
-					"priceperyear":"$37,500"
+					"userslabel":"sworn",
+					"price":"$10,000",
+					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"201 - 300",
-					"priceperyear":"$30,000"
+					"userslabel":"sworn",
+					"price":"$7,500",
+					"priceperiod":"per 6 months"
 				},
 				{
 					"users":"101 - 200",
-					"priceperyear":"$22,500"
+					"userslabel":"sworn",
+					"price":"$5,000",
+					"priceperiod":"per 6 months"
 				},
 				{
-					"users":"51 - 100",
-					"priceperyear":"$15,000"
-				},
-				{
-					"users":"Up to 50",
-					"priceperyear":"$10,000"
+					"users":"Up to 100",
+					"userslabel":"sworn",
+					"price":"$2,500",
+					"priceperiod":"per 6 months w/Office365"
 				}
 			],
-			"items":["Alerts & Announcements Dashboard", "Shift Briefing Dashboard", "Ops Discussion Dashboard", "Ops Activity Reporting", "Real-Time Criminal Discussion Threads", "Officer Safety Bulletin", "BOLO", "Photo", "and Video Libraries", "CJIS Compliant Bulletin Dissemination", "Significant Incident Reporting", "Secure Investigations Workspaces", "Task Force Management", "Sex Offender Management", "Trespass Management", "Stolen Vehicle Hotsheets", "Wants and Warrants Dashboard", "Search Warrant Management", "Task Assignment Management", "Public Information Management", "House & Business Watch Requests", "Community Request Management", "Calendaring", "Repeat Offender Tracking Dashboard", "Case Tracking", "Community Partner Sites"],
+			"items":["Shift Briefing Dashboard", "Crime & Operational Discussion Threads", "Searchable Bulletin & Offender Photo Libraries", "Up-to-date Forms Library", "Gate Codes, and More..."],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
 				"label":"Schedule Your Free Demo",
-				"link":"https://smartforce.app/#/demo"
+				"link":"https://smartforce.app/#/demo",
+				"show": false
+			}
+		},
+		{
+			"img":"https://adventoscorp.github.io/AdvPublic/pricing/images/balloon_smartIntel.png",
+			"title":"SmartComms Plus",
+			"mostpopular": false,
+			"prices":[
+				{
+					"users":"501+",
+					"userslabel":"users",
+					"callforquote":true,
+					"priceperiod":""
+				},
+				{
+					"users":"401 - 500",
+					"userslabel":"users",
+					"price":"$45,000",
+					"priceperiod":"per year"
+				},
+				{
+					"users":"301 - 400",
+					"userslabel":"users",
+					"price":"$37,500",
+					"priceperiod":"per year"
+				},
+				{
+					"users":"201 - 300",
+					"userslabel":"users",
+					"price":"$30,000",
+					"priceperiod":"per year"
+				},
+				{
+					"users":"101 - 200",
+					"userslabel":"users",
+					"price":"$22,500",
+					"priceperiod":"per year"
+				},
+				{
+					"users":"51 - 100",
+					"userslabel":"users",
+					"price":"$15,000",
+					"priceperiod":"per year"
+				},
+				{
+					"users":"Up to 50",
+					"userslabel":"users",
+					"price":"$10,000",
+					"priceperiod":"per year"
+				}
+			],
+			"items":[
+				"Everything in SmartComms",
+				"+",
+				"Crime Project Calculators",
+				"Investigations, Crime Analysis, Patrol, & Specialty Unit Pages",
+				"Community Policing Partner Pages", "And much More..."
+			],
+			"learnmore": "Learn More Now, with a free Demonstration",
+			"button": {
+				"label":"Schedule Your Free Demo",
+				"link":"https://smartforce.app/#/demo",
+				"show": false
 			}
 		},
 		{
@@ -49,41 +120,60 @@
 			"title":"SmartIA",
 			"prices":[
 				{
-					"users":"500+",
-					"callforquote":true
+					"users":"501+",
+					"userslabel":"users",
+					"callforquote":true,
+					"priceperiod":""
 				},
 				{
 					"users":"401 - 500",
-					"priceperyear":"$45,000"
+					"userslabel":"users",
+					"price":"$30,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"301 - 400",
-					"priceperyear":"$37,500"
+					"userslabel":"users",
+					"price":"$25,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"201 - 300",
-					"priceperyear":"$30,000"
+					"userslabel":"users",
+					"price":"$20,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"101 - 200",
-					"priceperyear":"$22,500"
+					"userslabel":"users",
+					"price":"$15,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"51 - 100",
-					"priceperyear":"$15,000"
+					"userslabel":"users",
+					"price":"$7,500",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"Up to 50",
-					"priceperyear":"$10,000"
+					"userslabel":"users",
+					"price":"$5,000",
+					"priceperiod":"per year"
 				}
 			],
 			"items":[
-				"Professional Standards Page", "Early Intervention Warning System", "Response to Resistance Management", "Complaints Management", "Commendations Management", "Pursuits and Collisions Management", "Public Information Management"
+				"Smart forms to quickly document Use of Force, Complaints, Commendations, Pursuits, and Crashes",
+				"Automated workflows to notify and speed supervisor approvals",
+				"Supervisor Dashboards to approve, track, and search key data or reports",
+				"Early Intervention System displays officers hitting a tipping point of risk",
+				"Automatically creates monthly reports for the FBI use of force national database"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
 				"label":"Schedule Your Free Demo",
-				"link":"https://smartforce.app/#/demo"
+				"link":"https://smartforce.app/#/demo",
+				"show": true
 			}
 		},
 		{
@@ -91,41 +181,61 @@
 			"title":"SmartAdmin",
 			"prices":[
 				{
-					"users":"500+",
-					"callforquote":true
+					"users":"501+",
+					"userslabel":"users",
+					"callforquote":true,
+					"priceperiod":""
 				},
 				{
 					"users":"401 - 500",
-					"priceperyear":"$30,000"
+					"userslabel":"users",
+					"price":"$30,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"301 - 400",
-					"priceperyear":"$25,000"
+					"userslabel":"users",
+					"price":"$25,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"201 - 300",
-					"priceperyear":"$20,000"
+					"userslabel":"users",
+					"price":"$20,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"101 - 200",
-					"priceperyear":"$15,000"
+					"userslabel":"users",
+					"price":"$15,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"51 - 100",
-					"priceperyear":"$10,000"
+					"userslabel":"users",
+					"price":"$10,000",
+					"priceperiod":"per year"
 				},
 				{
 					"users":"Up to 50",
-					"priceperyear":"$5,000"
+					"userslabel":"users",
+					"price":"$5,000",
+					"priceperiod":"per year"
 				}
 			],
 			"items":[
-				"Policy Compliance Management", "Training & Certification Management", "FTO/PTO Management", "Quartermaster Management", "Forms Library", "Document Management", "Calendaring", "Time Off Management", "Extra Details Management", "Project Management"
+				"Automated workflows to push out policies for review & signature",
+				"Push-out Training alerts and manage seats",
+				"Internal & external training request approval system",
+				"Quartermaster management with electronic scanning",
+				"eDOR’s, Weekly Progress Reports, Phase Reports, and other performance reports",
+				"Officer & Supervisor dashboards for visibility and accountability"
 			],
 			"learnmore": "Learn More Now, with a free Demonstration",
 			"button": {
 				"label":"Schedule Your Free Demo",
-				"link":"https://smartforce.app/#/demo"
+				"link":"https://smartforce.app/#/demo",
+				"show": true
 			}
 		}
 	],

@@ -1,64 +1,89 @@
 {
 	"features":[
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIntel.png",
-			"title":"Smart Comms",
-			"description": "SmartComms is a suite of tools to improve Crime Reduction strategies like CompStat, Intelligence-Led Policing, DDACTS, Hot-spots Policing, and others. Without proper tools, officers, detectives, crime analysts, community action teams, and specialty units operate in silos.  With SmartComms, everyone works together at higher levels of productivity so intel gaps are filled quicker, time is not wasted, and crime reduction goals are achieved faster. SmartComms also improves crime meetings so insights on officer activity, training, motivation, resources, or innovative tactics can be discussed instead of just reviewing whether crime stats are going up, down, or staying the same.",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-comms.JPG",
+			"title":"SmartComms",
+			"subtitle": "",
+			"description":"<b>SmartComms</b> is an app for optimizing Patrol since this unit makes up the bulk of your resources.  Significant gains in productivity are seen by organizing & visualizing key information, then providing a forum for 2-way, real-time communication & collaboration.  Don’t hope and rely on email any longer when targeted information in SmartComms is better.",
 			"items":[
-				{"name":"Alerts & Announcements Dashboard"},
-				{"name":"Shift Briefing Dashboard"},
-				{"name":"Ops Discussion Dashboard"},
-				{"name":"Ops Activity Reporting"},
-				{"name":"Real-Time Criminal Discussion Threads"},
-				{"name":"Officer Safety Bulletin, BOLO, Photo, and Video Libraries"},
-				{"name":"CJIS Compliant Bulletin Dissemination"},
-				{"name":"Significant Incident Reporting"},
-				{"name":"Secure Investigations Workspaces"},
-				{"name":"Task Force Management"},
-				{"name":"Sex Offender Management"},
-				{"name":"Trespass Management"},
-				{"name":"Stolen Vehicle Hotsheets"},
-				{"name":"Wants and Warrants Dashboard"},
-				{"name":"Search Warrant Management"},
-				{"name":"Task Assignment Management"},
-				{"name":"Public Information Management"},
-				{"name":"House & Business Watch Requests"},
-				{"name":"Community Request Management"},
-				{"name":"Calendaring"},
-				{"name":"Repeat Offender Tracking Dashboard"},
-				{"name":"Case Tracking"},
-				{"name":"Community Partner Sites"}
+				{
+					"name":"Shift Briefing Dashboard",
+					"description": "Officers that miss a briefing can quickly get back up to speed and search past briefing data, BOLOs, photos, and videos."
+				},
+				{
+					"name":"Operations Discussions",
+					"description": "Increase collaboration and speed with your crime projects so your officers can problem solve and make arrests instead of writing more reports on crimes that have already happened."
+				},
+				{
+					"name":"Breaking Alerts & Announcements",
+					"description": "Keep your officers informed with up-to-date information on critical events, officer safety, or other need-to-know information."
+				},
+				{
+					"name":"And much more...",
+					"description": ""
+				}
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartIA.png",
-			"title":"Smart IA",
-			"description":"The High Liability Management Module of SmartForce® is designed to help reduce risks and vulnerabilities that exist in law enforcement.",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-comms-plus.JPG",
+			"title":"SmartComms Plus",
+			"subtitle": "",
+			"description": "In addition to optimizing Patrol, <b>SmartComms Plus</b> improves communication and collaboration between investigations, crime analysis, patrol, and specialty units to <b>operationalize</b> crime reduction strategies like CompStat, Stratified Policing, Intelligence-Led Policing, DDACTS, Hot-Spot Policing, the SARA model, Community Policing, and others.  With SmartComms Plus, everyone works together at higher levels of productivity and accountability.",
 			"items":[
-				{"name":"Professional Standards Page"},
-				{"name":"Early Intervention Warning System"},
-				{"name":"Response to Resistance Management"},
-				{"name":"Complaints Management"},
-				{"name":"Commendations Management"},
-				{"name":"Pursuits and Collisions Management"},
-				{"name":"Public Information Management"}
+				{
+					"name":"Crime Project Calculator",
+					"description": "Improve your crime meetings and data-driven decisions by spending more time on insights from SmartForce® crime project analytics."
+				},
+				{
+					"name":"Investigative and Specialty Unit Collaboration",
+					"description": "Display information and provide 2-way, real-time communication to break down silos and improve morale."
+				},
+				{
+					"name":"Community Partner Pages",
+					"description": "Improve community engagement and collaboration with key stakeholders like Schools, Businesses, Apartment Managers, HOAs, and more."
+				}
 			]
 		},
 		{
-			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/master/smartforce/features/images/smartAdmin.png",
-			"title":"Smart Admin",
-			"description":"SmartForce® allows agencies to Automate and Integrate the many systems, processes, and reporting that are often housed in different places.",
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-ia.JPG",
+			"title":"SmartIA",
+			"subtitle": "Strengthen Community Trust with FBI Compliant Internal Affairs",
+			"description":"SmartIA is the first and only Internal Affairs solution based on FBI reporting requirements explicitly developed for Internal Affairs and Command staffs. The public spotlight on law enforcement and community contacts places extra burdens on Internal Affairs Units to be more transparent, accountable, and to report citizen interactions more broadly.<br><br>Mobile-Friendly   Automatic FBI Reporting   Early Intervention",
 			"items":[
-				{"name":"Policy Compliance Management"},
-				{"name":"Training & Certification Management"},
-				{"name":"FTO/PTO Management"},
-				{"name":"Quartermaster Management"},
-				{"name":"Forms Library"},
-				{"name":"Document Management"},
-				{"name":"Calendaring"},
-				{"name":"Time Off Management"},
-				{"name":"Extra Details Management"},
-				{"name":"Project Management"}
+				{
+					"name":"More Efficient Community Interaction Reporting",
+					"description": "Quickly document use of force, complaints, commendations, pursuits, and crashes with officer-friendly Smart forms on tablets, smartphones, and computers. With one click, quickly upload and attach body-worn camera video and supporting documentation to the report. Save time and automatically ensure every report is complete and in a consistent format."
+				},
+				{
+					"name":"Early Intervention System",
+					"description": "Policing in turbulent environments can take a toll on officer wellness and health. Spot a concerning trendline before the officer’s performance becomes an issue. SmartIA helps keep your force healthy with automatic tracking and alerting Supervisors to officers hitting a tipping point of risk."
+				},
+				{
+					"name":"Built for Easy Compliance",
+					"description": "Providing additional transparency, accountability, and reporting to various government agencies, the public, and the media can strain limited resources. Built from the ground up to conform to the FBI use of force national data initiative, SmartIA saves time by automating data collection and report submission."
+				},
+				{
+					"name":"Streamlined Workflows",
+					"description": "The public spotlight on officer conduct requires fast processing of reports, reviews, and approvals. SmartIA provides automated workflows, so each incident is handled quickly and consistently with the right chain of command and report data can easily be searched and analyzed to provide transparency and accountability."
+				}
+			]
+		},
+		{
+			"img":"https://raw.githubusercontent.com/AdventosCorp/AdvPublic/modules/smartforce/features/images/smart-admin.JPG",
+			"title":"SmartAdmin",
+			"subtitle": "SmartAdmin is designed to automate and bundle common administrative needs for law enforcement into 1 solution instead of using spreadsheets, shared drives, or multiple vendors with multiple log-ins.  Use SmartAdmin for:",
+			"description":"",
+			"items":[
+				{"name":"Policy Compliance Management","description":""},
+				{"name":"Training & Certification Management","description":""},
+				{"name":"FTO/PTO Management","description":""},
+				{"name":"Quartermaster Management","description":""},
+				{"name":"Forms Library","description":""},
+				{"name":"Document Management","description":""},
+				{"name":"Calendaring","description":""},
+				{"name":"Time Off Management","description":""},
+				{"name":"Extra Details Management","description":""},
+				{"name":"Project Management","description":""}
 			]
 		}
 	]
