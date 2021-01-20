@@ -88,6 +88,11 @@
                 "label": "Sr. Developer"
             },
             {
+                "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/nicolasYopo-min.jpg",
+                "name": "Nicolás Yopo",
+                "label": "Developer"
+            }, 
+            {
                 "img": "https://adventoscorp.github.io/AdvPublic/aboutUs/images/martinWeingart-min.jpg",
                 "name": "Martin Weingart",
                 "label": "Developer"
