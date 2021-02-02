@@ -329,6 +329,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GrandChutePD-WI-min.png",
+        "name": "Grand Chute PD",
+        "state": "Wisconsin",
+        "latitude": 44.3039668,
+        "longitude": -88.4385634,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GrandJunctionPolice-CO-min.png",
         "name": "Grand Junction PD",
         "state": "Colorado",
@@ -342,14 +350,6 @@
         "state": "Colorado",
         "latitude": 39.6062874,
         "longitude": -104.9056712,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HaltomCityPD-TX-min.png",
-        "name": "Haltom City PD",
-        "state": "Texas",
-        "latitude": 32.8090131,
-        "longitude": -97.2743601,
         "officer": true
     },
     {
@@ -433,14 +433,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MesaCountySheriffsOffice-CO-min.png",
-        "name": "Mesa County SO",
-        "state": "Colorado",
-        "latitude": 39.0685363,
-        "longitude": -108.5740023,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MidlandPD-TX-min.png",
         "name": "Midland PO",
         "state": "Texas",
@@ -513,14 +505,6 @@
         "officer":true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PeoriaPD-AZ-min.png",
-        "name": "Peoria PD",
-        "state": "Arizona",
-        "latitude": 33.5748337,
-        "longitude": -112.2384197,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PinalCountySO-AZ-min.png",
         "name": "Pinal County SO",
         "state": "Arizona",
@@ -542,14 +526,6 @@
         "state": "Florida",
         "latitude": 27.2901177,
         "longitude": -80.4329751,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_Richland-WA-min.png",
-        "name": "Richland PD",
-        "state": "Washington",
-        "latitude": 46.2853081,
-        "longitude": -119.4459268,
         "officer": true
     },
     {
