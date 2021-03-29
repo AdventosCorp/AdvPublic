@@ -110,6 +110,12 @@
         "title": "Blog Posts",
         "content": [
             {
+                "title" : "SmartForce® Early Intervention System",
+                "link": "https://smartforcetech.com/blog/agency-management-system/smartforce-early-intervention-system/"
+            },            {
+                "title" : "SmartForce® 2021.1",
+                "link": "https://smartforcetech.com/blog/smartforce/smartforce-2021-1/"
+            },            {
                 "title" : "SmartForce® Answers Your Call for More Actionable Officer Data",
                 "link": "https://smartforcetech.com/blog/adventos/smartforce-answers-your-calls-for-more-actionable-officer-data/"
             },
