@@ -112,6 +112,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_Clovis-NM-min.png",
+        "name": "Clovis PD",
+        "state": "New Mexico",
+        "latitude": 36.9958331,
+        "longitude": -111.1167647,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CollierCountySO-FL-min.png",
         "name": "Collier County SO",
         "state": "Florida",
@@ -262,6 +270,14 @@
         "state": "North Carolina",
         "latitude": 36.0982098,
         "longitude": -80.2456724,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FortLuptonPD-CO-min.png",
+        "name": "Fort Lupton PD",
+        "state": "Colorado",
+        "latitude": 40.0796233,
+        "longitude": -104.8146807,
         "officer": true
     },
     {
@@ -425,6 +441,14 @@
         "officer":true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ManorPD-TX-min.png",
+        "name": "Manor PD",
+        "state": "Texas",
+        "latitude": 34.7457151,
+        "longitude": -108.9419578,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MatthewsPD-NC-min.png",
         "name": "Matthews PD",
         "state": "North Carolina",
@@ -516,8 +540,8 @@
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PocatelloPD-ID-min.png",
         "name": "Pocatello PD",
         "state": "Idaho",
-        "latitude": 44.083786,
-        "longitude": -127.5336286,
+        "latitude": 42.8734548,
+        "longitude": -112.448876,
         "officer": true
     },
     {
@@ -638,6 +662,14 @@
         "state": "Wisconsin",
         "latitude": 43.1830827,
         "longitude": -89.2103139,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_SuperiorPD-WI-min.png",
+        "name": "Superior PD",
+        "state": "Wisconsin",
+        "latitude": 46.7215702,
+        "longitude": -92.0992548,
         "officer": true
     },
 	{
