@@ -80,11 +80,11 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_",
-        "name": "Chatham County PD TAM Network",
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ChathamCountyPD-GA-min.png",
+        "name": "Chatham County PD",
         "state": "Georgia",
-        "latitude":
-        "longitude":
+        "latitude": 32.0668394,
+        "longitude": -81.1699617,
         "officer": true
     },    
     {
