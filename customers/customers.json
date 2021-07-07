@@ -544,6 +544,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/git status",
+        "name": "Pottstown PD",
+        "state": "PA",
+        "latitude": 40.245673,
+        "longitude": -75.6545003,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RoanokePD-VA-min.png",
         "name": "Roanoke PD",
         "state": "Virginia",
