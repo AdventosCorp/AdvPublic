@@ -552,6 +552,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_Puyallup-WA-min.png",
+        "name": "Puyallup PD",
+        "state": "WA",
+        "latitude": 47.1905478,
+        "longitude": -122.2992369,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RoanokePD-VA-min.png",
         "name": "Roanoke PD",
         "state": "Virginia",
