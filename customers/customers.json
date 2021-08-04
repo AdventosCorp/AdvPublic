@@ -288,14 +288,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GeorgiaTechUniv-GA-min.png",
-        "name": "Georgia Tech University",
-        "state": "Georgia",
-        "latitude": 33.7756672,
-        "longitude": -84.3996145,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GilbertPD-AZ-min.png",
         "name": "Gilbert PD",
         "state": "Arizona",
