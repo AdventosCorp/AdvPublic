@@ -544,6 +544,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ProsperPD-TX-min.png",
+        "name": "Prosper PD",
+        "state": "TX",
+        "latitude": 33.2410988,
+        "longitude": -96.819027,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PuyallupPD-WA-min.png",
         "name": "Puyallup PD",
         "state": "WA",
