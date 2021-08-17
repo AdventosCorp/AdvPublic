@@ -120,7 +120,7 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DalyCityPD-CO-min.png",
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_DalyCityPD-CA-min.png",
         "name": "Daly City PD",
         "state": "California",
         "latitude": 37.6906245,
@@ -285,6 +285,14 @@
         "state": "Kansas",
         "latitude": 37.9676572,
         "longitude": -100.8781181,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GastoniaPD-NC-min.png",
+        "name": "Gastonia PD",
+        "state": "North Carolina",
+        "latitude": 35.2661324,
+        "longitude": -81.1813388,
         "officer": true
     },
     {
@@ -520,6 +528,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PinevillePD-NC-min.png",
+        "name": "Pineville PD",
+        "state": "North Carolina",
+        "latitude": 35.0859987,
+        "longitude": -80.8948749,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PocatelloPD-ID-min.png",
         "name": "Pocatello PD",
         "state": "Idaho",
@@ -538,7 +554,7 @@
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PottstownPD-PA-min.png",
         "name": "Pottstown PD",
-        "state": "PA",
+        "state": "Pensilvania",
         "latitude": 40.245673,
         "longitude": -75.6545003,
         "officer": true
@@ -546,7 +562,7 @@
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ProsperPD-TX-min.png",
         "name": "Prosper PD",
-        "state": "TX",
+        "state": "Texas",
         "latitude": 33.2410988,
         "longitude": -96.819027,
         "officer": true
@@ -554,7 +570,7 @@
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PuyallupPD-WA-min.png",
         "name": "Puyallup PD",
-        "state": "WA",
+        "state": "Washington",
         "latitude": 47.1905478,
         "longitude": -122.2992369,
         "officer": true
@@ -624,7 +640,7 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneePD-KA-min.png",
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ShawneePD-KS-min.png",
         "name": "Shawnee PD",
         "state": "Kansas",
         "latitude": 39.0240044,
