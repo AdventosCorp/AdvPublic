@@ -41,6 +41,11 @@
         "content": [
             {
                 "title" : "",
+                "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video_NampaPD.jpeg",
+                "link": "https://youtu.be/97qKa1RAm8Q"
+            },
+            {
+                "title" : "",
                 "thumbnail" : "https://adventoscorp.github.io/AdvPublic/resources/images/video-thumbnail-EIS.jpg",
                 "link": "https://youtu.be/87nmOfqyXiw"
             },
