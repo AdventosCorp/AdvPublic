@@ -704,6 +704,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_TexasDepartmentOfCriminalJustice-TX-min.png",
+        "name": "Texas Department of Criminal Justice",
+        "state": "Texas",
+        "latitude": 30.7212401,
+        "longitude": -95.5795942,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VacavillePD-CA-min.png",
         "name": "Vacaville PD",
         "state": "California",
