@@ -80,6 +80,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CentralWashingtonUniversityPD-WA-min.png",
+        "name": "Central Washington University PD",
+        "state": "Washington",
+        "latitude": 46.9926393,
+        "longitude": -120.5502583, 
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_ChathamCountyPD-GA-min.png",
         "name": "Chatham County PD",
         "state": "Georgia",
