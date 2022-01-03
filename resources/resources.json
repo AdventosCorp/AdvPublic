@@ -120,6 +120,10 @@
         "title": "Blog Posts",
         "content": [
             {
+                "title" : "SmartForce® 2021.2",
+                "link": "https://smartforcetech.com/blog/adventos/smartforce-2021-2/"
+            }, 
+            {
                 "title" : "The Most Effective Tools for Your Operational Communications",
                 "link": "https://smartforcetech.com/blog/adventos/the-most-effective-tools-for-your-operational-communications/"
             },  
