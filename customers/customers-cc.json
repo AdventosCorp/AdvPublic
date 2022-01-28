@@ -1,9 +1,204 @@
 [
-    {
-        "img": "",
-        "name": "Colorado Springs Police Department",
-        "state": "Colorado",
+    { 
+        "name" : "Archuleta County Sheriff's Office ", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/ebd089c4-d472-49db-ad75-b1dc476f7549-1638468386.jpeg"
+    },
+    { 
+        "name" : "Basalt Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/d7ee10e9-9917-49ae-b2d7-3b3a0287c8a4-1636558222.jpeg"
+    },
+    { 
+        "name" : "Breckenridge Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Castle Rock Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/687a68bf-d8e2-4f75-a1a9-f35bc9484e9b-1634148394.jpeg"
+    },
+    { 
+        "name" : "Chaffee County Sheriff's Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/15d14231-f472-4d7a-af80-24466f9d5f56-1643251349.jpeg"
+    },
+    { 
+        "name" : "Colorado Springs Police Department", 
+        "state" : "Colorado", 
+        "img" : null,
         "latitude": 38.881517,
         "longitude": -104.8497345
+    },
+    { 
+        "name" : "Cortez Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Denver Marshal's Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/4f0a79b8-e45d-4886-ab5b-343f0c3c1e41-1643124134.jpeg"
+    },
+    { 
+        "name" : "Durango Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/7d4e3826-fd3a-4ea7-9f02-5f20eb73751b-1634141947.jpeg"
+    },
+    { 
+        "name" : "EL Paso County Sheriff's Office ", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/e97c1409-85e7-40c4-b575-699842ee962f-1639081612.jpeg"
+    },
+    { 
+        "name" : "Englewood Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/b0e5ecaf-f4f3-4006-ae6a-d46b22b26a9b-1643216691.jpeg"
+    },
+    { 
+        "name" : "Erie Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/b48301fd-1810-4ca0-9974-e4cc09c46d4a-1642023588.jpeg"
+    },
+    { 
+        "name" : "Estes Park Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/9ad9cfc5-01ab-4854-a5d7-78fc62627956-1642806187.jpeg"
+    },
+    { 
+        "name" : "Fort Lupton Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/7da24a09-72f5-4f88-9f0c-090a4cf78537-1635887928.jpeg"
+    },
+    { 
+        "name" : "Fort Morgan Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/898c73da-ac02-4370-9ec3-4eec6127b9a8-1637174907.jpeg"
+    },
+    { 
+        "name" : "Fountain Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/40749db7-5d90-43f2-8aae-1b1f2be76739-1638411649.jpeg"
+    },
+    { 
+        "name" : "Frederick Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/50c617bd-221c-4630-b686-b7c822d8f181-1641321820.jpeg"
+    },
+    { 
+        "name" : "Garden City Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Gilpin County Sheriff's Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/199447a0-ed20-4954-ac97-bc2f190e2589-1643132301.jpeg"
+    },
+    { 
+        "name" : "Glendale Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/d396e5db-81f0-49c8-acde-9d5568bd8ae8-1641589460.jpeg"
+    },
+    { 
+        "name" : "Golden PD", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Greeley PD", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/3d2159e5-5180-4af0-9367-291fb19c5307-1641997725.jpeg"
+    },
+    { 
+        "name" : "Greenwood Village Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Haxtun Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/1a72ac37-4ac8-4354-854a-a7e192df5060-1643047072.jpeg"
+    },
+    { 
+        "name" : "Hinsdale County Sheriff's Office ", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/b881194c-6c02-4eca-8bf1-b6ca29a11ba3-1643211505.jpeg"
+    },
+    { 
+        "name" : "Kiowa County Sheriff's Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/7fd4894d-576a-4efe-87b2-0c315aa7d14f-1642780288.jpeg"
+    },
+    { 
+        "name" : "LaSalle Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Lakewood PD", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/7cc375dd-ce79-498b-ba8d-6b91607e4820-1634072057.jpeg"
+    },
+    { 
+        "name" : "Lone Tree Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/7b43cccd-5dd8-47ed-99e7-024a76ae768e-1641917447.jpeg"
+    },
+    { 
+        "name" : "Manor Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/4ddf0562-2720-4668-a8a2-88b2420d681d-1640710662.jpeg"
+    },
+    { 
+        "name" : "Mead Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/5809f89c-b55c-445a-ab08-5196e33af727-1643299879.jpeg"
+    },
+    { 
+        "name" : "Montezuma County Sheriff's Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/bc4a8b3f-da75-4bc8-9ff3-6be36d85f5f7-1637171843.jpeg"
+    },
+    { 
+        "name" : "Pueblo Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/a2fe42ca-181f-4340-b39b-37e88b2621c4-1634940502.jpeg"
+    },
+    { 
+        "name" : "Severance Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/0d596345-5016-420d-bfdd-5974346d26a6-1643147652.jpeg"
+    },
+    { 
+        "name" : "Sheridan Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/4be7ed7e-5411-4dd7-b270-8f77fc32f57c-1637004768.jpeg"
+    },
+    { 
+        "name" : "Sterling Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Summit County Sheriffs Office", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/626034e5-8ec7-429d-a57c-5be4e9000695-1637254276.jpeg"
+    },
+    { 
+        "name" : "Thornton Police Department", 
+        "state" : "Colorado", 
+        "img" : null
+    },
+    { 
+        "name" : "Wray Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/9cb8569e-759b-4368-b191-942806278c04-1642022957.jpeg"
+    },
+    { 
+        "name" : "Yuma Police Department", 
+        "state" : "Colorado", 
+        "img" : "https://content.citizencontact.app/images/imgs/62560056-705e-4764-8496-58139b13f68a-1638374834.jpeg"
     }
 ]
