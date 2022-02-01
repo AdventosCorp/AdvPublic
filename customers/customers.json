@@ -432,6 +432,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MiddletownPD-DE-min.png",
+        "name": "Middletown PD",
+        "state": "Delaware",
+        "latitude": 39.4512938,
+        "longitude": -75.6838605,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_MidlandPD-TX-min.png",
         "name": "Midland PO",
         "state": "Texas",
