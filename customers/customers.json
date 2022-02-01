@@ -232,6 +232,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FargoPD-ND-min.png",
+        "name": "Fargo PD",
+        "state": "Nort Dakota",
+        "latitude": 46.8798825,
+        "longitude": -96.8198951,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_FayettevillePD-NC-min.png",
         "name": "Fayetteville PD",
         "state": "North Carolina",
@@ -320,6 +328,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GoldenPD-CO-min.png",
+        "name": "Golden PD",
+        "state": "Colorado",
+        "latitude": 39.7566296,
+        "longitude": -105.2263971, 
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_GrandChutePD-WI-min.png",
         "name": "Grand Chute PD",
         "state": "Wisconsin",
@@ -350,31 +366,7 @@
         "latitude": 38.4507331,
         "longitude": -78.868516,
         "officer": true
-    },
-	{
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HaysCountySheriff-TX-min.png",
-        "name": "Hays County SO",
-        "state": "Texas",
-        "latitude": 30.0462703,
-        "longitude": -98.1450752,
-        "officer": true
-    }, 
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HaysCountySheriffsOfficeCorrections-TX-min.png",
-        "name": "Hays County Sheriff's Office Corrections",
-        "state": "Texas",
-        "latitude": 29.8964311, 
-        "longitude": -97.9050084,
-        "officer": true
-    },    
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HerrimanPD-UT-min.png",
-        "name": "Herriman PD",
-        "state": "Utah",
-        "latitude": 40.5166157,
-        "longitude": -112.0166941,
-        "officer": true
-    },
+    },  
     {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_HighlandParkPolice-TX-min.png",
         "name": "Highland Park DPS",
@@ -717,6 +709,14 @@
         "state": "Texas",
         "latitude": 30.7212401,
         "longitude": -95.5795942,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_TuscaloosaPD-AL-min.png",
+        "name": "Tuscaloosa PD",
+        "state": "Alabama",
+        "latitude": 33.1731947, 
+        "longitude": -87.55792,
         "officer": true
     },
     {
