@@ -120,6 +120,22 @@
         "title": "Blog Posts",
         "content": [
             {
+                "title" : "How to Report Contacts and Use of Force in Complex Scenarios in CitizenContact",
+                "link": "https://smartforcetech.com/blog/agency-management-system/how-to-report-contacts-and-use-of-force-in-complex-scenarios-in-citizencontact/"
+            },
+            {
+                "title" : "Data Dictionary Available for Colorado Senate Bill 217 Solution",
+                "link": "https://smartforcetech.com/blog/agency-management-system/data-dictionary-available-for-colorado-senate-bill-217-solution/"
+            },
+            {
+                "title" : "My Reports and Agency Reports redesigned + Officer Card by SmartForce®",
+                "link": "https://smartforcetech.com/blog/smartforce/my-reports-and-agency-reports-redesigned-officer-card-by-smartforce/"
+            },
+            {
+                "title" : "CitizenContact | Offline Reporting",
+                "link": "https://smartforcetech.com/blog/adventos/citizencontact-offline-reporting/"
+            },
+            {
                 "title" : "Colorado Agencies’ New Contact Collection Timeline Moved Up 8 Months and SmartForce® is Helping to Meet Fast Approaching Deadline",
                 "link": "https://smartforcetech.com/blog/adventos/colorado-agencies-new-contact-collection-timeline-moved-up-8-months-and-smartforce-is-helping-to-meet-fast-approaching-deadline/"
             }, 
