@@ -8,6 +8,14 @@
         "officer": true
     },
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_AspenPD-CO-min.png",
+        "name": "Aspen PD",
+        "state": "Colorado",
+        "latitude": 39.1904336,
+        "longitude": -106.8190816,
+        "officer": true
+    },
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_AuburnPD-WA-min.png",
         "name": "Auburn PD",
         "state": "Washington",
@@ -61,6 +69,14 @@
         "state": "Colorado",
         "latitude": 39.973214,
         "longitude": -104.782349,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_CarlsbadPD-NM-min.png",
+        "name": "Carlsbad PD",
+        "state": "New Mexico",
+        "latitude": 32.4207656, 
+        "longitude": -104.2353168,
         "officer": true
     },
     {
@@ -384,6 +400,14 @@
         "officer": true
     },    
     {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_KellerPD-TX-min.png",
+        "name": "Keller PD",
+        "state": "Texas",
+        "latitude": 32.9299542,
+        "longitude": -97.2343559,
+        "officer": true
+    },  
+    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_KennewickPD-WA-min.png",
         "name": "Kennewick PD",
         "state": "Washington",
@@ -512,14 +536,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PearlandPD-TX-min.png",
-        "name": "Pearland PD",
-        "state": "Texas",
-        "latitude": 29.5628453,
-        "longitude": -95.3522664,
-        "officer":true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_PerkinsCountySO-SD-min.png",
         "name": "Perkins County SO",
         "state": "South Dakota",
@@ -589,14 +605,6 @@
         "state": "Virginia",
         "latitude": 37.271129,
         "longitude": -79.9498338,
-        "officer": true
-    },
-    {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_RocktonPoliceDepartment-IL-min.png",
-        "name": "Rockton PD",
-        "state": "Illinois",
-        "latitude": 42.5738228,
-        "longitude": -89.8127783,
         "officer": true
     },
     {
@@ -728,14 +736,6 @@
         "officer": true
     },
     {
-        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VacavillePD-CA-min.png",
-        "name": "Vacaville PD",
-        "state": "California",
-        "latitude": 38.3504687,
-        "longitude": -121.9953258,
-        "officer": true
-    },
-    {
         "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VailPD-CO-min.png",
         "name": "Vail PD",
         "state": "Colorado",
@@ -749,6 +749,14 @@
         "state": "Indiana",
         "latitude": 38.0116045,
         "longitude": -87.5444011,
+        "officer": true
+    },
+    {
+        "img": "https://adventoscorp.github.io/AdvPublic/customers/badges/badges_VirginiaCommonwealthUniversityPD-VA-min.png",
+        "name": "Virginia Commonwealth University PD",
+        "state": "Virginia",
+        "latitude": 37.5153919,
+        "longitude": -77.5802731,
         "officer": true
     },
     {
