@@ -120,6 +120,10 @@
         "title": "Blog Posts",
         "content": [
             {
+                "title" : "CitizenContact v1.6",
+                "link": "https://smartforcetech.com/blog/smartforce/citizencontact-v1-6/"
+            },
+            {
                 "title" : "How to Report Contacts and Use of Force in Complex Scenarios in CitizenContact",
                 "link": "https://smartforcetech.com/blog/agency-management-system/how-to-report-contacts-and-use-of-force-in-complex-scenarios-in-citizencontact/"
             },
